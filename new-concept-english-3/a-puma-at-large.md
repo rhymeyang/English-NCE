@@ -1,4 +1,4 @@
-# 🌻 A Puma at large
+# 🍁 A Puma at large
 
 ## Context
 
@@ -36,7 +36,7 @@ The hunt for the puma began in a small village where a woman picking blackberrie
 
 逃遁的美洲狮
 
-美洲狮是一种体形似猫的大动物，产于美洲。当伦敦动物园接到报告说，在伦敦以南45 英里处发现一只美洲狮时，这些报告并没有受到重视。可是，随着证据越来越多，动物园的 专家们感到有必要进行一番调查，因为凡是声称见到过美洲狮的人们所描述的情况竟是出奇 地相似。 搜寻美洲狮的工作是从一座小村庄开始的。那里的一位妇女在采摘黑莓时的看见“一只 大猫”，离她仅5 码远，她刚看见它，它就立刻逃走了。专家证实，美洲狮非被逼得走投无 路，是决不会伤人的。事实上搜寻工作很困难，因为常常是早晨在甲地发现那只美洲狮，晚 上却在20 英里外的乙地发现它的踪迹。无论它走哪儿，一路上总会留下一串死鹿及死兔子 之类的小动物，在许多地方看见爪印，灌木丛中发现了粘在上面的美洲狮毛。有人抱怨说夜 里听见“像猫一样的叫声”；一位商人去钓鱼，看见那只美洲狮在树上。专家们如今已经完 全肯定那只动物就是美洲狮，但它是从哪儿来的呢？由于全国动物园没有一家报告丢了美洲 狮，因此那只美洲狮一定是某位私人收藏豢养的，不知怎么设法逃出来了。搜寻工作进行了 好几个星期，但始终未能逮住那只美洲狮。想到在宁静的乡村里有一头危险的野兽继续逍遥 流窜，真令人担心。
+美洲狮是一种体形似猫的大动物，产于美洲。当伦敦动物园接到报告说，在伦敦以南45 英里处发现一只美洲狮时，这些报告并没有受到重视。可是，随着证据越来越多，动物园的 专家们感到有必要进行一番调查，因为凡是声称见到过美洲狮的人们所描述的情况竟是出奇地相似。 搜寻美洲狮的工作是从一座小村庄开始的。那里的一位妇女在采摘黑莓时的看见“一只大猫”，离她仅5 码远，她刚看见它，它就立刻逃走了。专家证实，美洲狮非被逼得走投无 路，是决不会伤人的。事实上搜寻工作很困难，因为常常是早晨在甲地发现那只美洲狮，晚 上却在20 英里外的乙地发现它的踪迹。无论它走哪儿，一路上总会留下一串死鹿及死兔子 之类的小动物，在许多地方看见爪印，灌木丛中发现了粘在上面的美洲狮毛。有人抱怨说夜 里听见“像猫一样的叫声”；一位商人去钓鱼，看见那只美洲狮在树上。专家们如今已经完 全肯定那只动物就是美洲狮，但它是从哪儿来的呢？由于全国动物园没有一家报告丢了美洲 狮，因此那只美洲狮一定是某位私人收藏豢养的，不知怎么设法逃出来了。搜寻工作进行了 好几个星期，但始终未能逮住那只美洲狮。想到在宁静的乡村里有一头危险的野兽继续逍遥 流窜，真令人担心。
 
 ## 单词详解
 
@@ -44,17 +44,17 @@ The hunt for the puma began in a small village where a woman picking blackberrie
 
 v. 看出，发现
 
-stop lot hot boss dog
+发音：stop， lot， hot， boss， dog
 
 * a big red spot
-* a spot on one’s reputation
-* A leopard won’t change its spots.
+* a spot on one's reputation
+* A leopard won't change its spots.
 * **spot of sth.**
-* a spot of bother
-* You seem to be having a spot of bother with your car, can I help?
+  * a spot of bother
+    * You seem to be having **a spot of bother** with your car, can I help?
 * **a scenic spot**
   * A great many of **scenic spots** are being spoilt by the ill behaved tourists.
-* The Middle East is a hot spot.
+* The Middle East is a **hot spot**.
 * **on the spot**
 * Four days after setting out, while the Titanic was sailing across the icy waters of the North Atlantic, a huge iceberg was suddenly **spotted** by a look out.
 * Ten minutes after calling 911, a police car arrived **on the spot**.
