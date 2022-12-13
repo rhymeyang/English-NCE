@@ -40,7 +40,9 @@ The hunt for the puma began in a small village where a woman picking blackberrie
 
 ## 单词详解
 
-#### spot \[spɒt]
+### spot&#x20;
+
+spot \[spɒt]
 
 v. 看出，发现
 
@@ -69,7 +71,9 @@ v. 看出，发现
   * ID card -- identity card
   * UFO -- unidentified flying object
 
-#### evidence \['evɪdəns]
+### evidence&#x20;
+
+evidence \['evɪdəns]
 
 n.证据
 
@@ -77,14 +81,27 @@ n.证据
 * evident, adj
 *   self-evident
 
-    All truth passes through three stages. First, it is ridiculed. Second, it is violently opposed. Third, it is accepted as being self-evident.\
-    ― Arthur Schopenhauer
 
-    Declaration of Independence
 
-    We hold these truths to be self-evident, that all men are created equal, that they are endowed by the Creator with certain unalienable rights, that among these are life, liberty, and the pursuit of happiness. ― Thomas Jefferson
+All truth passes through three stages. First, it is **ridiculed**. Second, it is violently opposed. Third, it is accepted as being **self-evident**.\
+― Arthur Schopenhauer
 
-**court**
+Declaration of Independence
+
+We hold these truths to be **self-evident**, that all men are created equal, that they are endowed by the Creator with certain unalienable rights, that among these are life, liberty, and the pursuit of happiness.
+
+&#x20;― Thomas Jefferson
+
+
+
+<mark style="color:red;">**ridicule**</mark> noun \[ U ] UK /ˈrɪd.ɪ.kjuːl/ US /ˈrɪd.ə.kjuːl/
+
+**unkind words or actions that make someone or something look stupid:**
+
+* She was treated with scorn and ridicule by her colleagues when she applied for the job.
+* He's become an object of ridicule (= a person that everyone thinks is stupid and criticizes or laughs at).
+
+#### **court**
 
 * go to court
 * settle sth. out of court
@@ -98,7 +115,9 @@ n.证据
 * charge sb. with (doing) sth.
   * I charged him with stealing my sheep.
 
-#### accumulate \[ə'kju:mjəleɪt]
+### accumulate&#x20;
+
+accumulate \[ə'kju:mjəleɪt]
 
 v.积累，积聚
 
@@ -113,10 +132,21 @@ v.积累，积聚
     * collect stamps
   * gather
     * gather crops
-  * hoard
+  * <mark style="color:red;">**hoard**</mark>
     * Shenzhen real estate developers hoard large amounts of land.
 
-#### oblige oblige \[ə'blaɪdʒ]
+
+
+**hoard** verb \[ I or T ] UK /hɔːd/ US /hɔːrd/
+
+**to collect large amounts of something and keep it for yourself, often in a secret place:**
+
+* During the siege people began hoarding food and supplies.
+* There would be enough food on a daily basis if people were not hoarding.
+
+### oblige&#x20;
+
+oblige \[ə'blaɪdʒ]
 
 v.使 感到必须
 
@@ -131,7 +161,9 @@ v.使 感到必须
 * **be / feel impelled to do**
   * He **felt impelled** to point out that they were making a dangerous mistake.
 
-#### human being \['hju:mən'bi:ɪŋ]
+### human being
+
+human being \['hju:mən'bi:ɪŋ]
 
 n.人类 可数
 
@@ -142,20 +174,24 @@ n.人类 可数
 * mankind
 * humankind
 * human race
-* humanity
+* **humanity**
   * a crime against humanity
   * 多强调人性，人道
 
 类似短语
 
 * alien being 外星人
-*   intelligent being 智慧生物
+* intelligent being 智慧生物
 
-    To be, or not to be: that is the question. --Hamlet
 
-    I think therefore I am. 我思故我在 -- René Descartes
 
-#### corner \['kɔ:nə(r)]
+To be, or not to be: that is the question. --Hamlet
+
+I think therefore I am. 我思故我在 -- René Descartes
+
+### corner&#x20;
+
+corner \['kɔ:nə(r)]
 
 v.使走投无路，使陷入困境
 
@@ -164,7 +200,9 @@ v.使走投无路，使陷入困境
 * on / in / at / around the corner
 * My birthday is just around the corner.
 
-#### convince \[kə n'v ɪ ns]
+### convince&#x20;
+
+convince \[kə n'v ɪ ns]
 
 v. 使...信服
 
@@ -183,7 +221,9 @@ v. 使...信服
 * assure sb. of sth.
   * The dealer assured me of its quality.
 
-#### somehow \['sʌ mha ʊ ]
+### somehow&#x20;
+
+somehow \['sʌ mha ʊ ]
 
 adv.不知怎么搞地，不知什么原因
 
@@ -195,7 +235,9 @@ adv.不知怎么搞地，不知什么原因
 * **somewhere**
   * I've lost my wallet somewhere around here.
 
-#### disturb \[dɪ'stɜ:b]
+### disturb&#x20;
+
+disturb \[dɪ'stɜ:b]
 
 v. 打扰，令人不安
 
@@ -204,9 +246,9 @@ v. 打扰，令人不安
 * Sorry to disturb you, but …
   * Sorry to disturb you, but I really need your help.
 
-### 短语
+## 短语
 
-#### at large
+### at large
 
 * a puma which was at large
 * a prisoner / suspect at large
@@ -223,7 +265,7 @@ v. 打扰，令人不安
 * As is shown in the picture, there is a **cobweb-like** structure with separate compartments packed in it.
 * Foxes and farmers have never got on well. These small **dog-like** animals have long been accused of killing farm animals. (CET-4)
 
-#### be found in …
+### be found in …
 
 产于，存在于
 
@@ -233,7 +275,7 @@ v. 打扰，令人不安
 * 造句: 大熊猫 (giant panda) 是一种大型的，类似于熊的动物，产于中国四川省。
   * Giant pandas is a large, bear-like animals which are found in Sichuan province, China.
 
-#### come into
+### come into
 
 * He **came into** the classroom.
 * However, a new type of humor, which stems largely from the US, has recently **come into** fashion.
@@ -288,13 +330,13 @@ When news came into the national museum that an ancient tomb **had been** found 
 * an item of news
 * a piece of evidence
 
-\--
+
 
 * investigate the market
 * investigate the case
 * the FBI: the Federal Bureau of Investigation
 
-#### cause
+### cause
 
 * because
 * since
@@ -304,7 +346,7 @@ When news came into the national museum that an ancient tomb **had been** found 
 * now (that)
   * Now that a tunnel has been built through the mountains, the Pass is less dangerous, but each year, the dogs are still sent out into the snow whenever a traveller is in difficulty.
 
-#### descriptions
+### descriptions
 
 * give descriptions
   * ... descriptions **which were** given by people ...
@@ -317,7 +359,7 @@ When news came into the national museum that an ancient tomb **had been** found 
 * movies **directed by Zhang Yimou**
 * The man **leaning against the wall** **named George** is my brother.
 
-#### claim to
+### claim to
 
 * claim to have done …
 * claim to do …
@@ -325,9 +367,9 @@ When news came into the national museum that an ancient tomb **had been** found 
   * Everyone went to the funeral, for the 'ghost' was none other than Eric Cox, a third brother who was supposed **to have died** as a young man.
   * When I was a boy, my grandfather told me how a German taxi driver, Franz Bussman, found a brother who was thought to have been killed twenty years before.
 
-#### extraordinarily
+### extraordinarily
 
-* extraordinarily
+* **extraordinarily**
 * primarily
 * absolutely
 * necessarily
@@ -352,7 +394,7 @@ When news came into the national museum that an ancient tomb **had been** found 
 * As the case accumulate, specialist felt obliged to start a investigate, for the symtoms of the sicker were extraordinarily similar. - error
 * **As the cases began to accumulate, specialists felt obliged to investigate, for the symptoms of people who had caught the disease were extraordinarily similar.**
 
-#### hunt for …
+### hunt for …
 
 * I’m **hunting for** a job now.
 * The \_\_hunt \_\_ a job will begin tomorrow.
@@ -369,7 +411,7 @@ When news came into the national museum that an ancient tomb **had been** found 
   * 证实说
   * President Hu Jintao confirmed that he would visit the United States next month.
 
-#### prove (to be)
+### prove (to be)
 
 adj. / n. 被证明是
 
@@ -379,7 +421,7 @@ adj. / n. 被证明是
 * turn out to be + adj. / n. 原来是
   * When the archaeologists reconstructed the fragments, they were amazed to find that the goddess **turned out to be** a very modern-looking woman.
 
-#### 疑问词 + ever
+### 疑问词 + ever
 
 疑问词 + ever (whenever, wherever, whoever, whichever, whatever ...) 有两个含义：
 
@@ -401,7 +443,7 @@ Answer: (C) Why do you keep on making the same mistakes?
 
 Wherever it went, it left **behind it** a trail of dead deer and small animals like rabbits.
 
-#### a trail of
+### a trail of
 
 * Wherever he went, he left a trail of … behind him.
 * Wherever he went, he left a trail of unpaid bills behind him.
@@ -412,7 +454,7 @@ Wherever it went, it left **behind it** a trail of dead deer and small animals l
 * People have paid more and more attention to the condition of the laid off workers.
 * **Increasing attention** has been paid to the condition of the laid off work ers.
 
-#### fur
+### fur
 
 * fur
   * a fur coat 有皮有毛
@@ -430,7 +472,7 @@ Wherever it went, it left **behind it** a trail of dead deer and small animals l
 * The fire was reported **controlled**.
   * It is reported that the fire was controlled.
 
-#### complain of / about sth. vi
+### complain of / about sth. vi
 
 * compain vi
 * compain (that) 介词省略了
@@ -442,7 +484,7 @@ Wherever it went, it left **behind it** a trail of dead deer and small animals l
 * …, as one of them put it 'ate like kings'.
 * The writer stated that Rastus was in safe hands …
 
-#### on a business / honeymoon trip
+### on a business / honeymoon trip
 
 * on a business / honeymoon trip
 * on a journey / voyage / **expedition** / tour
@@ -456,7 +498,7 @@ Wherever it went, it left **behind it** a trail of dead deer and small animals l
 * After telling several of his friends about the theft, Dimitri found out that his neighbour, Aleko, had suddenly acquired a new lamb.
 * He was a WOMAN!
 
-#### must have done
+### must have done
 
 * You must have been ill yesterday. You looked so pale.
 * must do
@@ -470,33 +512,63 @@ Wherever it went, it left **behind it** a trail of dead deer and small animals l
   * You **should have finished** your work yesterday.
   * I **shouldn’t have shouted** at you yesterday.
 
-题目
+### 题目
 
-\_She looks very happy. She \_\_ have passed the exam. \_I guess so. It's not difficult at all.
+**She looks very happy. She \_\_ have passed the exam.**&#x20;
 
-A Should, B could, C must, D might
+**I guess so. It's not difficult at all.**
+
+A. Should
+
+B. could&#x20;
+
+C. must
+
+D. might
 
 C
 
-\_I can't find my purse anywhere. \_You \_\_ have lost it while shopping.
+****
+
+&#x20;**I can't find my purse anywhere. \_**
+
+**You \_\_ have lost it while shopping.**
 
 A may, B can, C should, D would
 
 A
 
-\_I'm sorry. I \_\_ at you the other day. \_Forget it. I was a bit out of control myself.
 
-A Shouldn't shout B shouldn't have shouted C mustn't shout D mustn't have shouted
+
+**I'm sorry. I \_\_ at you the other day.**&#x20;
+
+**Forget it. I was a bit out of control myself.**
+
+A Shouldn't shout&#x20;
+
+B shouldn't have shouted&#x20;
+
+C mustn't shout&#x20;
+
+D mustn't have shouted
 
 **B**
 
-The policeman declared that the blow on the victim's head \_\_ from behind
+****
 
-A, should have been made B, must have been made C, would have been made D, ought to have been made
+**The policeman declared that the blow on the victim's head \_\_ from behind**
+
+A, should have been made&#x20;
+
+B, must have been made&#x20;
+
+C, would have been made&#x20;
+
+D, ought to have been made
 
 B
 
-#### in the possession of sb.
+### in the possession of sb.
 
 * in the possession of sb. / in one’s possession
 * in possession of sth.
@@ -507,14 +579,14 @@ B
   * The bookstore is in my charge.
   * I’m in charge of the bookstore.
 
-#### manage to do
+### manage to do
 
 * manage to do 设法完成了某事
   * Our vicar is always raising money for one cause or another, but he has never **managed to get** enough money to have the church clock repaired.
 * fail to do 没能完成某事
   * When the journalist again **failed to reply**, the editor reluctantly published the article as it had originally been written.
 
-#### It is … to think that …
+### It is … to think that …
 
 * It is … to think that …
   * **It** is disturbing **to think that a dangerous wild animal is still at large in the quiet countryside**.
