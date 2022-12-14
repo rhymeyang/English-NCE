@@ -2,9 +2,7 @@
 
 ## Context
 
-q
-
-Lesson 1 A Puma at large
+### **Lesson 1 A Puma at large**
 
 Listen to the tape then answer the question below.
 
@@ -52,10 +50,12 @@ v. 看出，发现
 * a spot on one's reputation
 * A leopard won't change its spots.
 * **spot of sth.**
-  * a spot of bother
-    * You seem to be having **a spot of bother** with your car, can I help?
-* **a scenic spot**
-  * A great many of **scenic spots** are being spoilt by the ill behaved tourists.
+  *   a spot of bother
+
+      You seem to be having **a spot of bother** with your car, can I help?
+*   **a scenic spot**
+
+    A great many of **scenic spots** are being spoilt by the ill behaved tourists.
 * The Middle East is a **hot spot**.
 * **on the spot**
 * Four days after setting out, while the Titanic was sailing across the icy waters of the North Atlantic, a huge iceberg was suddenly **spotted** by a look out.
@@ -371,9 +371,17 @@ When reports came into London Zoo **that a wild puma had been spotted forty-five
 * … they were taken lightly.
 * When reports came into London Zoo that a wild puma had been spotted forty five miles south of London, they were not **taken seriously**.
 
-[造句：当消息(news) 传到了国家博物馆 (the national museum)，说是在西安以南 100 公里 处发现了一座古墓 (an ancient tomb) 的时候，这则消息受到了重视。](#user-content-fn-1)[^1]
 
-When news came into the national museum that an ancient tomb **had been** found 100 kilometers south of Xi'an, **it was** taken seriously.
+
+> 造句：
+>
+>
+>
+> 当消息(news) 传到了国家博物馆 (the national museum)，说是在西安以南 100 公里 处发现了一座古墓 (an ancient tomb) 的时候，这则消息受到了重视。
+>
+> &#x20;When news came into the national museum that an ancient tomb **had been** found 100 kilometers south of Xi'an, **it was** taken seriously.
+
+
 
 * a **piece** of news
 * an **item** of news
@@ -673,5 +681,3 @@ B
 * It is comforting to think that…
 * It is amusing to think that …
 * It is **irritating** to think that …
-
-[^1]: 
