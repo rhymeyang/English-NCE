@@ -530,7 +530,7 @@ Wherever it went, it left **behind it** a trail of dead deer and small animals l
 人们对下岗工人的生活状况越来越关注了。
 
 * People have paid more and more attention to the condition of the laid off workers.
-* **Increasing attention** has been paid to the condition of the laid off work ers.
+* **Increasing attention** has been paid to the condition of the laid off workers.
 
 ### fur
 
@@ -542,7 +542,7 @@ Wherever it went, it left **behind it** a trail of dead deer and small animals l
 * feather
   * fur and feather 飞禽走兽
 * fin, fur and feather 各种各样的动物 首韵
-* The **crown** should not yield to the **cross**. 王权不应屈服于神拳
+* The **crown** should not yield to the **cross**. 王权不应屈服于神权
 
 主语补足语
 
@@ -553,9 +553,14 @@ Wherever it went, it left **behind it** a trail of dead deer and small animals l
 ### complain of / about sth. vi
 
 * compain vi
-* compain (that) 介词省略了
-  * She **compained that** no one had been at the airport to meet her.
-  * that 引导的从句 不需要在 介词 之后
+*   compain (that) 介词省略了
+
+    She **compained that** no one had been at the airport to meet her.
+
+    that 引导的从句 不需要在 介词 之后
+
+
+
 * claim
 * confirm
 * Then I added with a smile, 'It's a strange mixture I make myself.'
@@ -566,15 +571,21 @@ Wherever it went, it left **behind it** a trail of dead deer and small animals l
 
 * on a business / honeymoon trip
 * on a journey / voyage / **expedition** / tour
-  * President Xi Jinping is on a five nation tour.
+  * President Xi Jinping is **on** a five nation **tour**.
   * tour, 回到出发原点
 * be convinced that …
   * convince sb. of sth.
 * that 引导从句的例外
   * in that …
   * except / but that …
-* After telling several of his friends about the theft, Dimitri found out that his neighbour, Aleko, had suddenly acquired a new lamb.
+* After telling several of his friends about the theft, Dimitri found out **that** his neighbour, Aleko, had suddenly acquired a new lamb.
 * He was a WOMAN!
+
+**expedition**
+
+英音：/ˌekspəˈdɪʃn/美音：/ˌekspəˈdɪʃn/
+
+n. 远征；探险；考察, 迅速，动作敏捷
 
 ### must have done
 
@@ -583,8 +594,13 @@ Wherever it went, it left **behind it** a trail of dead deer and small animals l
   * She knew that it must be the baker.
 * may / might have done
 * can not / could not have done
-  * You **can’t have been** ill yesterday. I saw you going shopping with your wife.
-  * The girl asked to see a timetable, feeling sure that her father **could not have made** such a mistake.
+
+You **can’t have been** ill yesterday. I saw you going shopping with your wife.
+
+The girl asked to see a timetable, feeling sure that her father **could not have made** such a mistake.
+
+
+
 * should / ought to have done
   * should not / ought not to have done
   * You **should have finished** your work yesterday.
@@ -594,35 +610,41 @@ Wherever it went, it left **behind it** a trail of dead deer and small animals l
 
 #### Questions
 
-**She looks very happy. She \_\_ have passed the exam.**&#x20;
+> **A: She looks very happy. She \_\_ have passed the exam.**&#x20;
+>
+> **B: I guess so. It's not difficult at all.**&#x20;
+>
+>
+>
+> A. Should&#x20;
+>
+> B. could&#x20;
+>
+> C. must&#x20;
+>
+> D. might&#x20;
 
-**I guess so. It's not difficult at all.**
+Answer C
 
-A. Should
+> **A: I can't find my purse anywhere.**&#x20;
+>
+> **B: You \_\_ have lost it while shopping.**&#x20;
+>
+>
+>
+> A. may&#x20;
+>
+> B. can&#x20;
+>
+> C. should&#x20;
+>
+> D. would&#x20;
 
-B. could&#x20;
+Answer A
 
-C. must
 
-D. might
-
-C
 
 ****
-
-**A:  I can't find my purse anywhere.**&#x20;
-
-**B: You \_\_ have lost it while shopping.**
-
-A, may
-
-B, can
-
-C, should
-
-D, would
-
-A
 
 
 
@@ -668,16 +690,21 @@ B
 ### manage to do
 
 * manage to do 设法完成了某事
-  * Our vicar is always raising money for one cause or another, but he has never **managed to get** enough money to have the church clock repaired.
-* fail to do 没能完成某事
-  * When the journalist again **failed to reply**, the editor reluctantly published the article as it had originally been written.
+*   fail to do 没能完成某事
+
+
+
+Our vicar is always raising money for one cause or another, but he has never **managed to get** enough money to have the church clock repaired.
+
+When the journalist again **failed to reply**, the editor reluctantly published the article as it had originally been written.
 
 ### It is … to think that …
 
-* It is … to think that …
-  * **It** is disturbing **to think that a dangerous wild animal is still at large in the quiet countryside**.
-* It is worrying to think that …
-* It is exciting to think that …
-* It is comforting to think that…
-* It is amusing to think that …
+* It is **disturbing** to think that …
+* It is **worrying** to think that …
+* It is **exciting** to think that …
+* It is **comforting** to think that…
+* It is **amusing** to think that …
 * It is **irritating** to think that …
+
+**It** is disturbing **to think that a dangerous wild animal is still at large in the quiet countryside**.
