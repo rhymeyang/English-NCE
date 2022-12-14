@@ -132,7 +132,7 @@ storey / story \['stɔ:rɪ] n. 楼层
 * The house is two stories high.
 * a multi-story parking lot
 
-\--
+floor 和 story 区别
 
 * story 强调建筑物总层数
 * floor 强调第几层
@@ -366,31 +366,54 @@ The famous monastery of St. Bernard, which was founded in the 11th century, **li
 
 ### at one time = once
 
-* at one time = once
-  * The city **at one time** must have been prosperous.
-  * The city **at one time** must have seen / known **prosperity**.
+*   at one time = once
+
+    * The city **at one time** must have been prosperous.
+    * The city **at one time** must have seen / known **prosperity**.
+
+
+
+### enjoy&#x20;
+
 * enjoy good health
 * enjoy a high standard of living
-* The **garments** are magnificent and tasteful and have long **enjoyed** great fame both at home and abroad.
+
+The **garments** are magnificent and tasteful and have long **enjoyed** great fame both at home and abroad.
+
 * **be blessed with** …
-  * They were blessed with two children, a boy and a girl.
+
+They were blessed with two children, a boy and a girl.
+
 * **be endowed with** …
-  * She **is endowed with** both brains and beauty.
-    * brain 大脑 不可数， 此处 智慧
-  * We hold these truths to be self evident, that all men are created equal, that they **are endowed by the Creator with** certain unalienable rights, that among these are life, liberty, and the pursuit of happiness. ― Thomas Jeffer son
+
+She **is endowed with** both brains and beauty.
+
+* brain 大脑 不可数， 此处 智慧
+
+We hold these truths to be self evident, that all men are created equal, that they **are endowed by the Creator with** certain unalienable rights, that among these are life, liberty, and the pursuit of happiness. ― Thomas Jeffer son
+
 * **boast**
-  * There is a lot of beautiful **scenery** in China.
-    * **scenery** 风光，不可数。
-  * China **boasts** a lot of beautiful scenery.
-  * 人做主语，吹牛。事物做主语，有好的东西。
+
+There is a lot of beautiful **scenery** in China.
+
+**scenery** 风光，不可数。
+
+
+
+China **boasts** a lot of beautiful scenery.
+
+人做主语，吹牛。事物做主语，有好的东西。
+
 * **with**
   * They had large rooms **with** beautifully decorated walls.
   * a girl **with** blue eyes
   * a mug **with** a broken handle
     * mug 马克杯
-* **decorate**
-  * a **vastly improved** method
-  * a **much acclaimed** novel
+
+### **decorate**
+
+* a **vastly improved** method
+* a **much acclaimed** novel
 
 #### equip A with B
 
@@ -398,37 +421,54 @@ The city was even equipped with a drainage system, for a great many clay pipes w
 
 * **be equipped with** …
   * equipment 不可数
-  * The classrooms **are equipped with** modern multimedia teaching **equipment**.
 
-#### a great many (of )
+The classrooms **are equipped with** modern multimedia teaching **equipment**.
 
-* **a great many (of )** … Countable
-* **a great number of** … Countable
-* **a great amount / deal of** … Uncountable
-* **beneath / underneath** -- on
-* **under** -- over
-* **below** -- above
-* The temple **which the archaeologists explored** **was used as** a place of worship from the fifteenth century B.C. until Roman times
+### a great many (of )
 
-#### be used as …
+**a great many (of )** … Countable
+
+**a great number of** … Countable
+
+**a great amount / deal of** … Uncountable
+
+**beneath / underneath** -- on
+
+**under** -- over
+
+**below** -- above
+
+The temple **which the archaeologists explored** **was used as** a place of worship from the fifteenth century B.C. until Roman times
+
+### be used as …
 
 * be used as ...
-  * The wooden box **is used as** a seat.
-* act / serve / function as …
-  * The wooden box **acts / serves / functions as** a seat.
-  * She **serves as** an impressive reminder of the great ships of the past.
+
+The wooden box **is used as** a seat.
+
+*   act / serve / function as …
+
+
+
+The wooden box **acts / serves / functions as** a seat.
+
+She **serves as** an impressive reminder of the great ships of the past.
 
 #### BC AD
 
 * **B.C. (BC)**: Before Christ
 * **A.D. (AD)**: Anno Domini
 
-\--
+时间
 
 * **in modern / recent / ancient / prehistoric times**
-* in times of …
-  * in times of peace / war
-  * **In times of peace**, when business was bad, Hawkwood and his men would march into a city-state …
+*   in times of …
+
+    * in times of peace / war
+
+    ****
+
+**In times of peace**, when business was bad, Hawkwood and his men would march into a city-state …
 
 替换 age
 
@@ -442,11 +482,18 @@ The city was even equipped with a drainage system, for a great many clay pipes w
   * **the end of an era / epoch**
   * His death marked the end of an era.
   * mark the beginning of a new era / epoch
-    * It **marked** the end of the great tradition of ships with sails and **the beginning of a new era**.
-    * The foundation of the People's Republic of China **marked the beginning of a new era**.
-    * **the People's Republic of China**
 
-**发音**
+It **marked** the end of the great tradition of ships with sails and **the beginning of a new era**.
+
+
+
+The foundation of the People's Republic of China **marked the beginning of a new era**.
+
+****
+
+**the People's Republic of China**
+
+### **发音**
 
 半元音 j
 
@@ -471,7 +518,7 @@ The city was even equipped with a drainage system, for a great many clay pipes w
   * May I **use your** book?
   * How's your father?
 
-#### represent
+### represent
 
 Each of these represented a goddess and had, at one time, been painted.
 
@@ -479,10 +526,12 @@ Each of these represented a goddess and had, at one time, been painted.
 * **stand for**
   * Honey, this gold ring **stands for** / **represents** my love for you.
 * **on behalf of sb. / on one's behalf**
-  * **On behalf of** the entire company, I would like to thank you for all your work.
-  * Unfortunately, George cannot be with us today so I am pleased to accept this award **on his behalf**.
 
-#### date from
+**On behalf of** the entire company, I would like to thank you for all your work.
+
+Unfortunately, George cannot be with us today so I am pleased to accept this award **on his behalf**.
+
+### date from
 
 The body of one statue was found among remains dating from the fifteenth century B.C.
 
@@ -494,7 +543,7 @@ The body of one statue was found among remains dating from the fifteenth century
 > * The prosperity of the Silk Road can be traced back to Han ...
 > * The prosperity of the Silk Road **dates from / dates back to / can be traced back to** the distant Han Dynasty.
 
-#### happen to do
+### happen to do
 
 Its missing head **happened to be** among remains of the fifth century B.C.
 
@@ -553,45 +602,67 @@ luck 无感情，好坏事情都可
 
 **As luck would have it**, we took the same train.
 
-* W: You do look cold. What happened?
-* M: I've been standing outside in Arctic temperature for over an hour waiting for a bus.
-* W: Over an hour, but I thought your apartment was only a ten-minute bus ride to campus.
-* M: Under normal conditions, but the bus was delayed because of the weather and when I stepped into a drugstore to call home for a ride, the bus went by. **As luck would have it**, there was no one at home, so I had to wait another forty five minutes for the next bus.
-* W:That's Murphy's law, isn't it. What was it said 'If anything can go wrong, it will.' Well, we still get twenty minutes to **gather our wits** together.
+> W: You do look cold. What happened?
+>
+> &#x20;M: I've been standing outside in Arctic temperature for over an hour waiting for a bus.&#x20;
+>
+> W: Over an hour, but I thought your apartment was only a ten-minute bus ride to campus.&#x20;
+>
+> M: Under normal conditions, but the bus was delayed because of the weather and when I stepped into a drugstore to call home for a ride, the bus went by. **As luck would have it**, there was no one at home, so I had to wait another forty five minutes for the next bus.
+>
+> W:That's Murphy's law, isn't it. What was it said 'If anything can go wrong, it will.' Well, we still get twenty minutes to **gather our wits** together.
 
-gather our wits 习语搭配， 冷静， 缓一下
+**gather our wits** 习语搭配， 冷静， 缓一下
 
 drugstore 不只是卖药，药妆，小杂货铺
 
-**arctic**
-
-英音：/'ɑːktɪk/美音：/'ɑrktɪk/
+**arctic** 英音：/'ɑːktɪk/美音：/'ɑrktɪk/
 
 the very cold area around the North Pole:
 
 Polar bears live in the Arctic.
 
-#### preserve
+### preserve
 
 保护
 
 * **preserve**
-  * keep sth. in good condition
-  * **preserve** one's eyesight / food
+
+keep sth. in good condition
+
+**preserve** one's eyesight / food
+
 * **conserve**
-  * 数量不减少
-  * **conserve** wildlife / resources
+
+数量不减少
+
+**conserve** wildlife / resources
+
 * **reserve**
-  * for future use
-  * **Reserve** your energy for the climb tomorrow.
-  * All Rights **Reserved**.
-  * I **reserve** the right to disagree.
-  * **reserve** a table for 2
-    * 预定二人桌
 
-The old building is in a good state of \_\_\_ except for the wooden floors.
+for future use
 
-A. observation B. preservation C. conservation D reservation
+**Reserve** your energy for the climb tomorrow.
+
+All Rights **Reserved**.
+
+I **reserve** the right to disagree.
+
+**reserve** a table for 2
+
+* 预定二人桌
+
+> The old building is in a good state of \_\_\_ except for the wooden floors.
+>
+>
+>
+> A. observation&#x20;
+>
+> B. preservation&#x20;
+>
+> C. conservation &#x20;
+>
+> D reservation
 
 Answer B. preservation
 
@@ -599,33 +670,45 @@ Answer B. preservation
 
 nervous anxious
 
-#### surprise
+### surprise
 
 * surprise
 * astonish
-  * 难以置信
-  * He was **astonished** at what he found. A man was lying in the box on top of a pile of woolen goods.
+
+难以置信
+
+He was **astonished** at what he found. A man was lying in the box on top of a pile of woolen goods.
+
 * **amaze**
-  * 搞不清楚
-  * ... they were **amazed** to find that the goddess turned out to be a very modern-looking woman.
+
+搞不清楚
+
+... they were **amazed** to find that the goddess turned out to be a very modern-looking woman.
+
 * **astound**
-  * 惊呆了
-  * The police were **astounded** when Mrs. Ramsay told them what she had done.
+
+惊呆了
+
+The police were **astounded** when Mrs. Ramsay told them what she had done.
 
 #### turn out to be
 
 * **turn out to be**
 * **prove (to be)**
-  * Eric's girlfriend **turned out to be** his half-sister.
+
+Eric's girlfriend **turned out to be** his half-sister.
 
 #### modern-looking
 
 * adj.-doing
-* an **interesting-looking** carved dagger
-* **hard-working**
-* **easy-going**
 
-#### stand
+an **interesting-looking** carved dagger
+
+**hard-working**
+
+**easy-going**
+
+### stand
 
 She stood three feet high and her hands rested on her hips.
 
@@ -636,13 +719,17 @@ stand 此次为 **系动词**， 系表结构。
 * weigh
   * The boy **weighs** 50 kilos.
 * measure
-  * The carpet **measures** 5 meters long.
-    * rug 装饰用小块地毯
-    * carpet 满铺地毯
-  * 5 meters long 长
-  * 3 meters across 宽
 
-#### rest on
+The carpet **measures** 5 meters long.
+
+* rug 装饰用小块地毯
+* carpet 满铺地毯
+
+5 meters long 长
+
+3 meters across 宽
+
+### rest on
 
 搭在...上
 
@@ -662,7 +749,10 @@ stand 此次为 **系动词**， 系表结构。
   * while
 * **in spite of** the fact that …
 * **despite the fact that** …
-* **Despite the fact that** the bottle is tinted a delicate shade of green, an observant visitor would soon notice that it is filled with what looks like a thick, grayish substance.
+
+****
+
+**Despite the fact that** the bottle is tinted a delicate shade of green, an observant visitor would soon notice that it is filled with what looks like a thick, grayish substance.
 
 > 如何写出引人入胜的叙事类文章？
 >
