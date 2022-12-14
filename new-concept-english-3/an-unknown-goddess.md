@@ -1,6 +1,8 @@
-# 🍁 An unknown goddess
+# An unknown goddess
 
 ## Context
+
+### Lesson 3 An unknown goddess
 
 Listen to the tape then answer the question below.
 
@@ -12,26 +14,45 @@ The temple which the archaeologists explored was used as a place of worship from
 
 ### New words and expressions 生词和短语
 
-* goddess(tile) n. 女神
-* archaeologist n. 考古学家
-* Aegean adj. 爱玲海的
-* explore v. 考察，勘探
-* promontory n. 海角
-* prosperous adj. （经济上）繁荣的，昌盛的
-* civilization n. 文明
-* storey n. 楼层
-* drainage n. 排水
-* worship n. 祟拜
-* sacred adj. 宗教的，神圣的
-* fragment n. 碎片
-* remains n. 遗物，遗迹，废墟
-* classical adj. （希腊和罗马）古化的
-* reconstruct v. 修复
-* rest v. 倚放，放置
-* hip n. 屁股，臀部
-* full-length adj. （裙衣）拖地长的
-* graceful adj. 优雅的
-* identity n. 身份
+goddess(tile) n. 女神
+
+archaeologist n. 考古学家
+
+Aegean adj. 爱玲海的
+
+explore v. 考察，勘探
+
+promontory n. 海角
+
+prosperous adj. （经济上）繁荣的，昌盛的
+
+civilization n. 文明
+
+storey n. 楼层
+
+drainage n. 排水
+
+worship n. 祟拜
+
+sacred adj. 宗教的，神圣的
+
+fragment n. 碎片
+
+remains n. 遗物，遗迹，废墟
+
+classical adj. （希腊和罗马）古化的
+
+reconstruct v. 修复
+
+rest v. 倚放，放置
+
+hip n. 屁股，臀部
+
+full-length adj. （裙衣）拖地长的
+
+graceful adj. 优雅的
+
+identity n. 身份
 
 ### 参考译文
 
@@ -43,41 +64,64 @@ The temple which the archaeologists explored was used as a place of worship from
 
 考古工作者考察的这座庙宇从公元前15 世纪直到罗马时代一直是祭祀祈祷的场所。在庙中最神圣的一间殿堂里发现了15 尊陶雕像的碎片。每一尊雕像代表一位女神，而且一度上过色。其中有一尊雕像，她的躯体是在公元前15 世纪的历史文物中发现的，而她那身异处的脑袋却碰巧是在公元前5 世纪的文物中找到的。她的脑袋一定是在古希腊罗马时代就为人所发现，并受到精心的保护。却使在当时，它也属历史悠久的珍奇之物。考古工作者把这些碎片重新拼装起来后，惊奇地发现那位女神原来是一位相貌十分摩登的女郎。她身高3英尺，双手叉腰。身穿一条拖地长裙，尽管上了年纪，但体态确实优美。不过，考古工作者至今未能确定这位女神的身份。
 
-### 单词
+## 单词
 
-#### archaeologist
+### archaeologist
 
-* archeologist \[ɑ:ki'ɒlədʒi] n.考古学家
-* archaeology / archeology \[ˌɑːkɪ'ɒlədʒɪ] n. 考古学
-* 构词 -'arch(a)' = ancient - **archaic** \[ɑːˈkeɪɪk] adj. - **archaic** words - **archaic** civilizations
-  * '(o)logy' = to study
-  * ist 人
-* archaeology archaeologist
-* biology biologist
-* geology \[dʒiˈɒlədʒi] geologist n. 地质学
-* psychology \[saɪˈkɒlədʒi] psychologist n 心理学
-* physiology \[ˌfɪzɪ'ɒlədʒɪ] physiologist n. 生理学
-* anthropology \[ˌænθrə'pɒlədʒɪ] anthropologist n. 人类学
+archeologist \[ɑ:ki'ɒlədʒi] n.考古学家
 
-#### prosperous \['prɒ sp ə r ə s]
+archaeology / archeology \[ˌɑːkɪ'ɒlədʒɪ] n. 考古学
 
-adj.（经济上）繁荣的
+构词 -'arch(a)' = ancient - **archaic** \[ɑːˈkeɪɪk] adj. - **archaic** words - **archaic** civilizations
+
+* '(o)logy' = to study
+* ist 人
+
+archaeology **archaeologist**
+
+biology **biologist**
+
+geology \[dʒiˈɒlədʒi] **geologist** n. 地质学
+
+psychology \[saɪˈkɒlədʒi] **psychologist** n 心理学
+
+physiology \[ˌfɪzɪ'ɒlədʒɪ] **physiologist** n. 生理学
+
+anthropology \[ˌænθrə'pɒlədʒɪ] **anthropologist** n. 人类学
+
+### prosperous&#x20;
+
+prosperous \['prɒspərəs] adj.（经济上）繁荣的
 
 * a prosperous country / businessman
-* **prosperity** n. \[prɒˈsperəti]
-  * economic **prosperity**
-  * We’ll keep the **prosperity** and stability of Hong Kong **at any cost**.
-  * One hundred years later, the Negro lives on a lonely island of **poverty** in the midst of a vast ocean of material **prosperity**.
-* **prosper** \[ˈprɒspə(r)] v, vi
-  * A company can't **prosper** without investment.
-* **thrive** \[θraɪv] / **flourish**
-  * A company can't **thrive** / **flourish** without investment.
-  * plants that **thrive** / **flourish** in tropical rainforests
-  * a **thriving** / **flourishing** tourist industry
 
-#### storey / story \['stɔ:rɪ]
+**prosperity** n. \[prɒˈsperəti]
 
-n. 楼层
+economic **prosperity**
+
+We’ll keep the **prosperity** and stability of Hong Kong **at any cost**.
+
+One hundred years later, the Negro lives on a lonely island of **poverty** in the midst of a vast ocean of material **prosperity**.
+
+****
+
+**prosper** \[ˈprɒspə(r)] v, vi
+
+A company can't **prosper** without investment.
+
+****
+
+**thrive** \[θraɪv] / **flourish**
+
+A company can't **thrive** / **flourish** without investment.
+
+plants that **thrive** / **flourish** in tropical rainforests
+
+a **thriving** / **flourishing** tourist industry
+
+### storey / story
+
+storey / story \['stɔ:rɪ] n. 楼层
 
 * 复数规则不同
   * storey storeys
@@ -104,113 +148,181 @@ floor
 | 一层  | the ground floor | the first floor  |
 | 地下室 | basement         | --               |
 
-#### sacred \['seɪkrɪd]
+### sacred
 
-adj. 宗教的；神圣的
+sacred \['seɪkrɪd] adj. 宗教的；神圣的
 
 * a **sacred** holiday
 * **sacred** music
 * Mecca is a **sacred** place.
-* **holy**
-  * Holy Bible
-  * **holy** water
-  * **holy** war
-* **blessed** adj, v 读音不同
-  * the **Blessed** Virgin Mary
-  * It is more blessed to give than to receive.
-* **divine** \[dɪˈvaɪn]
-  * To err is human, to forgive **divine**. -- Alexander Pope
-  * 凡人多舛误 唯神能见宥
 
-#### remains \[rɪ'meɪnz]
+**holy**
 
-n. 遗物，遗迹，废墟
+* Holy Bible
+* **holy** water
+* **holy** war
+
+**blessed** adj, v 读音不同
+
+* the **Blessed** Virgin Mary
+* It is more blessed to give than to receive.
+
+**divine** \[dɪˈvaɪn]
+
+* To err is human, to forgive **divine**. -- Alexander Pope
+* 凡人多舛误 唯神能见宥
+
+### remains &#x20;
+
+remains \[rɪ'meɪnz] n. 遗物，遗迹，废墟
 
 * the remains of a meal
 * the remains of ancient Rome
 * His remains are buried in the churchyard.
-* the rest of sth.
-* the remainder of sth. \[rɪˈmeɪndə(r)] n.
-* the rest of the semester
-  * \= the remainder of the semester
-* what is left of sth.
-* what remains of sth.
-  * Only two stray dogs benefited from all this confusion, for they greedily devoured what was left of the cake.
-  * It is recounted of Thomas Carlyle that when he heard of the illness of his friend, Henry Taylor, he went off immediately to visit him, carrying with him in his pocket what remained of a bottle of medicine formerly prescribed for an indisposition of Mrs. Carlyle's.
 
-#### classical \['klæsikəl]
+**the rest of sth.**
 
-adj. 古代（希腊和罗马）文化的
+the **remainder** of sth. \[rɪˈmeɪndə(r)] n.
+
+
+
+the rest of the semester
+
+\= the remainder of the semester
+
+
+
+what is **left** of sth.
+
+what **remains** of sth.
+
+
+
+Only two stray dogs benefited from all this confusion, for they greedily devoured what was left of the cake.
+
+It is recounted of Thomas Carlyle that when he heard of the illness of his friend, Henry Taylor, he went off immediately to visit him, carrying with him in his pocket what **remained** of a bottle of medicine formerly prescribed for an indisposition of Mrs. Carlyle's.
+
+**indisposition** 英音：/ˌɪndɪspə'zɪʃ(ə)n/ 美音：/ɪnˌdɪspəˈzɪʃən/
+
+n. 微恙；不愿意；嫌恶
+
+### classical&#x20;
+
+classical \['klæsikəl] adj. 古代（希腊和罗马）文化的
 
 * **classical** studies
 * **classical** music
 * **classic** adj. 经典的 第一流的
   * a **classic** novel
 
-\--
+类似构词
 
 * **electric** adj. 电动的
-  * an electric light / razor
+
+an electric light / razor
+
 * **electrical** adj
-  * **electrical** failure
+
+**electrical** failure
+
 * **historic** adj. 有历史意义的
-  * a **historic** moment
+
+a **historic** moment
+
 * **historical** adj. 历史的
-  * **historical** records
+
+**historical** records
+
 * **economic** adj. 经济相关的
-  * **economic** policy
+
+**economic** policy
+
 * **economical** adj. 节约的
-  * an **economical** car
+
+an **economical** car
+
 * **politic** adj. 策略的，明智的
-  * a politic decision
+
+a politic decision
+
 * **political** adj. 政治的
-  * **political asylum**
 
-#### rest \[rest]
+**political asylum**
 
-v. 倚放，放置
+**asylum** 英音：/əˈsaɪləm/美音：/əˈsaɪləm/
+
+n. 庇护；收容所，救济院
+
+### rest&#x20;
+
+rest \[rest] v. 倚放，放置
 
 * Her elbows **rested** on the table.
 * She **rested** her head against a **cushion**.
-* **rest on** / \_\_ rest upon\_\_
-  * Columbus' decision to sail west **rests on** his belief that the world is round.
+* **rest on** / **rest upon**
+
+Columbus' decision to sail west **rests on** his belief that the world is round.
+
 * **be based / founded on / upon**
 * **depend on / upon**
 * **rely on / upon**
-  * Don’t always depend on others. You should learn to **rely on** yourself.
-  * While the quality of legal journalism varies greatly, there is an undue reliance amongst many journalists on interpretations supplied to them by lawyers.
-* While comment and reaction from lawyers may enhance stories, it is preferable for journalists to rely on their own notions of significance and make their own judgments.
 
-#### make a discovery (of…)
+Don’t always depend on others. You should learn to **rely on** yourself.
+
+While the quality of legal journalism varies greatly, there is an undue reliance amongst many journalists on interpretations supplied to them by lawyers.
+
+
+
+While comment and reaction from lawyers may enhance stories, it is preferable for journalists to rely on their own notions of significance and make their own judgments.
+
+### make a discovery (of…)
 
 * **discover** v
-  * make a **discovery** (of…) n.
-  * make an interesting discovery (of …)
+
+make a **discovery** (of…) n.
+
+make an interesting **discovery** (of …)
+
 * **use**
-  * make use of …
-  * make the best use of…
-  * He made the best use of his talent.
+
+make use of …
+
+make the best use of…
+
+He made the best use of his talent.
+
 * **describe**
-  * make a vivid description of …
+
+make a vivid **description** of …
+
 * **investigate**
-  * make a thorough **investigation** of …
+
+make a thorough **investigation** of …
+
 * **summarize** vt
-  * make a **comprehensive** **summary** of …
+
+make a **comprehensive** **summary** of …
+
 * analyze
-  * make a detailed analysis of …
 
-\--
+make a detailed **analysis** of …
 
-* Some time ago, **archaeologists made an interesting discovery** on the Aegean island of Kea.
-  * 本文没这么写，如果这样写，考古学家是重点。
-  * Some time ago, **an interesting discovery was made by archaeologists** on the Aegean island **of** Kea.
-* **A radio message** from the mainland had been received by the ship's captain instructing him to give up the search.
+句子
+
+Some time ago, **archaeologists made an interesting discovery** on the Aegean island of Kea.
+
+* 本文没这么写，如果这样写，考古学家是重点。
+
+Some time ago, **an interesting discovery was made by archaeologists** on the Aegean island **of** Kea.
+
+**A radio message** from the mainland had been received by the ship's captain instructing him to give up the search.
+
 * the Aegean island **of** Kea
   * the city **of** Beijing
   * the promontory **of** Ayia Irini
   * the tiny village **of** Perachora
   * the famous monastery **of** St. Bernard
-* the novel of Three Kingdoms X 三国
+* X. the novel of Three Kingdoms  三国
   * the novel **entitled** Three Kingdoms 小说、文章 不可用 of
   * the movie **entitled** Da Vinci Code
 * the man **named** / **called** Vincent
@@ -226,13 +338,24 @@ v. 倚放，放置
   * stand
   * sit
   * lie --
-* Strange forms **stand** in gardens, and outside buildings and shops. The Monument to the People's Heroes **stands** in the center of Tian'anmen Square.
-* sit
-  * The house **sits** on top of a hill overlooking the town.
-* lie
-  * The famous monastery of St. Bernard, which was founded in the 11th century, **lies** about a mile away.
 
-#### promontory (headland):
+
+
+* stand
+
+Strange forms **stand** in gardens, and outside buildings and shops. The Monument to the People's Heroes **stands** in the center of Tian'anmen Square.
+
+* sit
+
+The house **sits** on top of a hill overlooking the town.
+
+*   lie
+
+
+
+The famous monastery of St. Bernard, which was founded in the 11th century, **lies** about a mile away.
+
+### promontory (headland):
 
 * promontory (headland)
   * a long narrow area of high land that **sticks out** into the sea
@@ -241,7 +364,7 @@ v. 倚放，放置
   * the Cape of Good Hope
   * a cape usually can recognized in map
 
-#### at one time = once
+### at one time = once
 
 * at one time = once
   * The city **at one time** must have been prosperous.
