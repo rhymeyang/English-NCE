@@ -93,11 +93,13 @@ anthropology \[ˌænθrə'pɒlədʒɪ] **anthropologist** n. 人类学
 
 prosperous \['prɒspərəs] adj.（经济上）繁荣的
 
-* a prosperous country / businessman
+a prosperous country / businessman
 
 **prosperity** n. \[prɒˈsperəti]
 
 economic **prosperity**
+
+
 
 We’ll keep the **prosperity** and stability of Hong Kong **at any cost**.
 
@@ -263,13 +265,27 @@ rest \[rest] v. 倚放，放置
 
 Columbus' decision to sail west **rests on** his belief that the world is round.
 
+**cushion** 英音：/ˈkʊʃn/美音：/ˈkʊʃn/
+
+n. 垫子， 坐垫
+
+时 态: cushioned, cushioning, cushions
+
+形容词: cushiony
+
 * **be based / founded on / upon**
 * **depend on / upon**
 * **rely on / upon**
 
 Don’t always depend on others. You should learn to **rely on** yourself.
 
-While the quality of legal journalism varies greatly, there is an undue reliance amongst many journalists on interpretations supplied to them by lawyers.
+While the quality of legal **journalism** varies greatly, there is an undue **reliance** amongst many journalists on interpretations supplied to them by lawyers.
+
+
+
+**journalism** 英音：/ˈdʒɜːnəlɪzəm/美音：/ˈdʒɜːrnəlɪzəm/
+
+n. 新闻业
 
 
 
@@ -317,15 +333,27 @@ Some time ago, **an interesting discovery was made by archaeologists** on the Ae
 
 **A radio message** from the mainland had been received by the ship's captain instructing him to give up the search.
 
-* the Aegean island **of** Kea
-  * the city **of** Beijing
-  * the promontory **of** Ayia Irini
-  * the tiny village **of** Perachora
-  * the famous monastery **of** St. Bernard
+*   the Aegean island **of** Kea
+
+    * the city **of** Beijing
+    * the promontory **of** Ayia Irini
+    * the tiny village **of** Perachora
+    * the famous monastery **of** St. Bernard
+
+
+
+
+
 * X. the novel of Three Kingdoms  三国
   * the novel **entitled** Three Kingdoms 小说、文章 不可用 of
   * the movie **entitled** Da Vinci Code
+
+
+
 * the man **named** / **called** Vincent
+
+
+
 * an American team **of** archaeologists
 
 #### 位置, 位于
