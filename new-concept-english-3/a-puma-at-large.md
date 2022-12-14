@@ -36,7 +36,7 @@ The hunt for the puma began in a small village where a woman picking blackberrie
 
 逃遁的美洲狮
 
-美洲狮是一种体形似猫的大动物，产于美洲。当伦敦动物园接到报告说，在伦敦以南45 英里处发现一只美洲狮时，这些报告并没有受到重视。可是，随着证据越来越多，动物园的 专家们感到有必要进行一番调查，因为凡是声称见到过美洲狮的人们所描述的情况竟是出奇地相似。 搜寻美洲狮的工作是从一座小村庄开始的。那里的一位妇女在采摘黑莓时的看见“一只大猫”，离她仅5 码远，她刚看见它，它就立刻逃走了。专家证实，美洲狮非被逼得走投无 路，是决不会伤人的。事实上搜寻工作很困难，因为常常是早晨在甲地发现那只美洲狮，晚 上却在20 英里外的乙地发现它的踪迹。无论它走哪儿，一路上总会留下一串死鹿及死兔子 之类的小动物，在许多地方看见爪印，灌木丛中发现了粘在上面的美洲狮毛。有人抱怨说夜 里听见“像猫一样的叫声”；一位商人去钓鱼，看见那只美洲狮在树上。专家们如今已经完 全肯定那只动物就是美洲狮，但它是从哪儿来的呢？由于全国动物园没有一家报告丢了美洲 狮，因此那只美洲狮一定是某位私人收藏豢养的，不知怎么设法逃出来了。搜寻工作进行了 好几个星期，但始终未能逮住那只美洲狮。想到在宁静的乡村里有一头危险的野兽继续逍遥 流窜，真令人担心。
+美洲狮是一种体形似猫的大动物，产于美洲。当伦敦动物园接到报告说，在伦敦以南45 英里处发现一只美洲狮时，这些报告并没有受到重视。可是，随着证据越来越多，动物园的 专家们感到有必要进行一番调查，因为凡是声称见到过美洲狮的人们所描述的情况竟是出奇地相似。 搜寻美洲狮的工作是从一座小村庄开始的。那里的一位妇女在采摘黑莓时的看见“一只大猫”，离她仅5 码远，她刚看见它，它就立刻逃走了。专家证实，美洲狮非被逼得走投无 路，是决不会伤人的。事实上搜寻工作很困难，因为常常是早晨在甲地发现那只美洲狮，晚 上却在20 英里外的乙地发现它的踪迹。无论它走哪儿，一路上总会留下一串死鹿及死兔子 之类的小动物，在许多地方看见爪印，灌木丛中发现了粘在上面的美洲狮毛。有人抱怨说夜里听见“像猫一样的叫声”；一位商人去钓鱼，看见那只美洲狮在树上。专家们如今已经完 全肯定那只动物就是美洲狮，但它是从哪儿来的呢？由于全国动物园没有一家报告丢了美洲 狮，因此那只美洲狮一定是某位私人收藏豢养的，不知怎么设法逃出来了。搜寻工作进行了 好几个星期，但始终未能逮住那只美洲狮。想到在宁静的乡村里有一头危险的野兽继续逍遥 流窜，真令人担心。
 
 ## 单词详解
 
@@ -61,8 +61,8 @@ v. 看出，发现
 * Four days after setting out, while the Titanic was sailing across the icy waters of the North Atlantic, a huge iceberg was suddenly **spotted** by a look out.
 * Ten minutes after calling 911, a police car arrived **on the spot**.
 * Dr. Marcy and Dr. Butler also **spotted** the first 'family' of three planets.
-* Chick Webb spotted her in an amateur competition when she was sixteen.
-* Four days after setting out, while the Titanic was sailing across the icy waters of the North Atlantic, a huge iceberg was suddenly spotted by a look out.
+* Chick Webb spotted her in an <mark style="color:red;">**amateur**</mark> competition when she was sixteen.
+* Four days after setting out, while the Titanic was sailing across the icy waters of the North Atlantic, a huge iceberg was suddenly **spotted** by a look out.
 * He had **spotted** a tiny bottle at the bottom of my case and he pounced on it with delight.
 * **see** / **find** / **observe**
   * recognize sb. as …
@@ -70,6 +70,17 @@ v. 看出，发现
 * **identify**
   * ID card -- identity card
   * UFO -- unidentified flying object
+
+
+
+### amateur&#x20;
+
+amateur 英音：/ˈæmətə(r)/美音：/ˈæmətər/
+
+* adj. 业余的, 非职业的, 外行的
+* n. 业余爱好者,外行, 生手
+
+名词: amateurism
 
 ### evidence&#x20;
 
@@ -86,9 +97,11 @@ n.证据
 All truth passes through three stages. First, it is **ridiculed**. Second, it is violently opposed. Third, it is accepted as being **self-evident**.\
 ― Arthur Schopenhauer
 
+
+
 Declaration of Independence
 
-We hold these truths to be **self-evident**, that all men are created equal, that they are endowed by the Creator with certain unalienable rights, that among these are life, liberty, and the pursuit of happiness.
+We hold these truths to be **self-evident,** that all men are created equal, that they are **endowed** by the Creator with certain unalienable rights, that among these are life, liberty, and the pursuit of happiness.
 
 &#x20;― Thomas Jefferson
 
@@ -100,6 +113,17 @@ We hold these truths to be **self-evident**, that all men are created equal, tha
 
 * She was treated with scorn and ridicule by her colleagues when she applied for the job.
 * He's become an object of ridicule (= a person that everyone thinks is stupid and criticizes or laughs at).
+
+<mark style="color:red;">****</mark>
+
+<mark style="color:red;">**endow**</mark>
+
+endow verb \[ T ] UK /ɪnˈdaʊ/ US /ɪnˈdaʊ/
+
+**to give a large amount of money to pay for creating a college, hospital, etc. or to provide an income for it:**
+
+* The state of Michigan has endowed three institutes to do research for industry.
+* This hospital was endowed by the citizens of Strasbourg in the 16th century.
 
 #### **court**
 
@@ -122,18 +146,19 @@ accumulate \[ə'kju:mjəleɪt]
 v.积累，积聚
 
 * accumulate **knowledge** / **possessions**
-  * I accumulated a large vocabulary.
-  * **amass**
-    * amass a fortune
-    * People tend to amass possessions.
-  * pile up
-    * Meanwhile, the traffic piled up behind.
-  * collect
-    * collect stamps
-  * gather
-    * gather crops
-  * <mark style="color:red;">**hoard**</mark>
-    * Shenzhen real estate developers hoard large amounts of land.
+  * I **accumulated** a large vocabulary.
+* **amass**
+  * **amass** a fortune
+  * People tend to **amass** possessions.
+* **pile up**
+  * Meanwhile, the traffic **piled up** behind.
+* **collect**
+  * **collect** stamps
+* **gather**
+  * **gather** crops
+*   <mark style="color:red;">**hoard**</mark>
+
+    * Shenzhen real estate developers **hoard** large amounts of land.
 
 
 
@@ -150,12 +175,15 @@ oblige \[ə'blaɪdʒ]
 
 v.使 感到必须
 
-* obligation
-*   be / feel obliged to do
+* **obligation**
+*   be / feel **obliged** to do
 
     * Many parents **feel obliged to** pay for at least part of the wedding.
 
-    Dear Mr. Wang, Thank you very much for having offered me such a golden opportunity to work as an editor for Designs & Fashions, a best selling magazine renowned for its extraordinary quality and taste. I was thrilled by the news and have tried my utmost, but after tw o months’ work I feel obliged to resign, which is truly a tough decision for me.
+
+
+Dear Mr. Wang, Thank you very much for having offered me such a golden opportunity to work as an editor for Designs & Fashions, a best selling magazine renowned for its extraordinary quality and taste. I was thrilled by the news and have tried my utmost, but after two months' work I feel obliged to resign, which is truly a tough decision for me.
+
 * **be / feel compelled to do**
   * President Nixon **felt compelled** to resign.
 * **be / feel impelled to do**
@@ -180,8 +208,8 @@ n.人类 可数
 
 类似短语
 
-* alien being 外星人
-* intelligent being 智慧生物
+* **alien** being 外星人
+* **intelligent** being 智慧生物
 
 
 
@@ -202,33 +230,35 @@ v.使走投无路，使陷入困境
 
 ### convince&#x20;
 
-convince \[kə n'v ɪ ns]
+convince \[kən'vɪns]
 
 v. 使...信服
 
 * convince sb. of sth.
   * He failed to convince the jury of his innocence.
-* cure sb. of sth.
-  * The doctor cured him of his lung cancer.
+* **cure** sb. of sth.
+  * The doctor **cured** him **of** his lung cancer.
 * inform sb. of sth.
-  * My ex-wife informed me of her marriage.
+  * My ex-wife **informed** me **of** her marriage.
 * remind sb. of sth.
-  * You remind me of one of my classmates.
-* rob sb. of sth.
-  * The robber robbed me of my wallet.
-* deprive sb. of sth.
-  * Some criminals were deprived of political rights.
+  * You **remind** me **of** one of my classmates.
+* **rob** sb. of sth.
+  * The robber **robbed** me **of** my wallet.
+* **deprive** sb. of sth.
+  * Some criminals were **deprived of** political rights.
 * assure sb. of sth.
-  * The dealer assured me of its quality.
+  * The dealer **assured** me **of** its quality.
 
 ### somehow&#x20;
 
-somehow \['sʌ mha ʊ ]
+somehow \['sʌmhaʊ]
 
 adv.不知怎么搞地，不知什么原因
 
-* And I couldn’t remember what it felt like when I could not walk down the street without holding her hand.
-* I mean she was the same woman I fell in love with, she hadn’t changed. But somehow everything's different. We've lost something along the way.
+
+
+A: And I couldn’t remember what it felt like when I could not walk down the street without holding her hand. I mean she was the same woman I fell in love with, she hadn’t changed. But **somehow** everything's different. We've lost something along the way.
+
 * **somewhat**
   * He was somewhat hungry.
   * He was somewhat embarrassed.
@@ -250,9 +280,11 @@ v. 打扰，令人不安
 
 ### at large
 
-* a puma which was at large
-* a prisoner / suspect at large
-* The disease is still at large.
+* a puma which was **at large.**
+* a prisoner / suspect **at large.**
+* The disease is still **at large**.
+
+
 
 类似构词
 
@@ -303,10 +335,17 @@ inanimate subject 抽象的主语 无灵主语 / 物称主语
 
     * 同位语
 
-    We hold these truths to be self-evident, that all men are created equal , that they are endowed by the Creator with certain unalienable rights , that among these are life, liberty, and the pursuit of happiness . ― Thomas Jefferson
-* had been seen / found / observed
 
-#### in / on / to the south of …
+
+We hold these truths to be self-evident, that all men are created equal , that they are endowed by the Creator with certain unalienable rights , that among these are life, liberty, and the pursuit of happiness.&#x20;
+
+― Thomas Jefferson
+
+
+
+had been seen / found / observed
+
+### in / on / to the south of …
 
 * Shanghai is **in** the south of China.
 * Vietnam is **on** the south of China.
@@ -317,23 +356,29 @@ When reports came into London Zoo **that a wild puma had been spotted forty-five
 
 > **如果有省略，一定是 to**
 
+### take ... seriously
+
 * take … seriously
 * take … lightly
 * … they were taken lightly.
-* When reports came into London Zoo that a wild puma had been spotted forty five miles south of London , they were not taken seriously.
+* When reports came into London Zoo that a wild puma had been spotted forty five miles south of London, they were not **taken seriously**.
 
-造句：当消息(news) 传到了国家博物馆 (the national museum)，说是在西安以南 100 公里 处发现了一座古墓 (an ancient tomb) 的时候，这则消息受到了重视。
+[造句：当消息(news) 传到了国家博物馆 (the national museum)，说是在西安以南 100 公里 处发现了一座古墓 (an ancient tomb) 的时候，这则消息受到了重视。](#user-content-fn-1)[^1]
 
 When news came into the national museum that an ancient tomb **had been** found 100 kilometers south of Xi'an, **it was** taken seriously.
 
-* a piece of news
-* an item of news
-* a piece of evidence
+* a **piece** of news
+* an **item** of news
+* a **piece** of **evidence**
+
+#### tomb&#x20;
+
+英音：/tuːm/美音：/tum/
 
 
 
 * investigate the market
-* investigate the case
+* **investigate** the case
 * the FBI: the Federal Bureau of Investigation
 
 ### cause
@@ -376,28 +421,35 @@ When news came into the national museum that an ancient tomb **had been** found 
 * temporarily
 * were extraordinarily
 
-\--
+描述相似
 
 * were extraordinarily similar
 * were particularly alike
 * had a lot in common
 * had considerable commonalities
 
-— well, I saw the ad on the back of the bus stop today. And, uh… though it was not exactly like looking in the mirror, you can't deny that **there is a certain commonality in our visages**.
+A: well, I saw the ad on the back of the bus stop today. And, uh… though it was not exactly like looking in the mirror, you can't deny that **there is a certain commonality in our visages**.
 
-— I guess **we do look a little bit alike**.
+B: I guess **we do look a little bit alike**.
 
-* However, as the evidence began to accumulate , experts from the Zoo felt obliged to investigate, for the descriptions given by people who claimed to have seen the puma were extraordinarily similar.
+
+
+However, as the evidence began to accumulate , experts from the Zoo felt obliged to investigate, for the descriptions given by people who claimed to have seen the puma were extraordinarily similar.
 
 > 造句: 随着病例 (case) 开始慢慢增多 , 医学专家们 (specialist) 觉得必须要调查了 因为得了这种病的人的症状 (symptom) 特 别地相似。
 
-* As the case accumulate, specialist felt obliged to start a investigate, for the symtoms of the sicker were extraordinarily similar. - error
+* **X**. As the case accumulate, specialist felt obliged to start a investigate, for the symtoms of the sicker were extraordinarily similar. - error
 * **As the cases began to accumulate, specialists felt obliged to investigate, for the symptoms of people who had caught the disease were extraordinarily similar.**
 
 ### hunt for …
 
 * I’m **hunting for** a job now.
-* The \_\_hunt \_\_ a job will begin tomorrow.
+* The **hunt for** a job will begin tomorrow.
+
+
+
+介词
+
 * the winter **in** America
 * the entrance **to** the parking lot
 * a witness **to** the accident
@@ -431,15 +483,25 @@ adj. / n. 被证明是
 * **No matter where** it went, …
   * **No matter where** you live, you would find it difficult not to laugh at, say, Charlie Chaplin's early films.
 
-1. 表示 "到底 ……" 用于疑问句中。
+2\.  表示 "到底 ……" 用于疑问句中。
 
 * 'Whatever are you doing up here Bill?' asked the vicar in surprise.
 * **Wherever** did you go yesterday?
 * **When ever** am I going to see you again?
 
-> **When will you ever learn?** (A) These things take time to learn. (B) Will you study anymore? (C) Why do you keep on making the same mistakes? (D) It will be a good learning experience for you.
+> **When will you ever learn?**&#x20;
+>
+> (A) These things take time to learn.&#x20;
+>
+> (B) Will you study anymore?&#x20;
+>
+> (C) Why do you keep on making the same mistakes?&#x20;
+>
+> (D) It will be a good learning experience for you.
 
 Answer: (C) Why do you keep on making the same mistakes?
+
+
 
 Wherever it went, it left **behind it** a trail of dead deer and small animals like rabbits.
 
@@ -470,7 +532,7 @@ Wherever it went, it left **behind it** a trail of dead deer and small animals l
 
 * As no pumas had been reported **missing** from any zoo in the country, ...
 * The fire was reported **controlled**.
-  * It is reported that the fire was controlled.
+  * It is reported that the fire was **controlled**.
 
 ### complain of / about sth. vi
 
@@ -481,10 +543,10 @@ Wherever it went, it left **behind it** a trail of dead deer and small animals l
 * claim
 * confirm
 * Then I added with a smile, 'It's a strange mixture I make myself.'
-* …, as one of them put it 'ate like kings'.
-* The writer stated that Rastus was in safe hands …
+* …, as one of them **put** it 'ate like kings'.
+* The writer **stated** that Rastus was **in** safe hands …
 
-### on a business / honeymoon trip
+### on ... trip
 
 * on a business / honeymoon trip
 * on a journey / voyage / **expedition** / tour
@@ -512,7 +574,9 @@ Wherever it went, it left **behind it** a trail of dead deer and small animals l
   * You **should have finished** your work yesterday.
   * I **shouldn’t have shouted** at you yesterday.
 
-### 题目
+###
+
+#### Questions
 
 **She looks very happy. She \_\_ have passed the exam.**&#x20;
 
@@ -530,27 +594,33 @@ C
 
 ****
 
-&#x20;**I can't find my purse anywhere. \_**
+**A:  I can't find my purse anywhere.**&#x20;
 
-**You \_\_ have lost it while shopping.**
+**B: You \_\_ have lost it while shopping.**
 
-A may, B can, C should, D would
+A, may
+
+B, can
+
+C, should
+
+D, would
 
 A
 
 
 
-**I'm sorry. I \_\_ at you the other day.**&#x20;
+**A: I'm sorry. I \_\_ at you the other day.**&#x20;
 
-**Forget it. I was a bit out of control myself.**
+**B: Forget it. I was a bit out of control myself.**
 
-A Shouldn't shout&#x20;
+A, Shouldn't shout&#x20;
 
-B shouldn't have shouted&#x20;
+B, shouldn't have shouted&#x20;
 
-C mustn't shout&#x20;
+C, mustn't shout&#x20;
 
-D mustn't have shouted
+D, mustn't have shouted
 
 **B**
 
@@ -572,11 +642,11 @@ B
 
 * in the possession of sb. / in one’s possession
 * in possession of sth.
-  * The book is in my possession .
-  * I’m in possession of the book.
+  * The book is **in my possession**.
+  * I’m **in possession of** the book.
 * in the charge of sb. / in one’s charge
   * in charge of …
-  * The bookstore is in my charge.
+  * The bookstore **is in my charge**.
   * I’m in charge of the bookstore.
 
 ### manage to do
@@ -595,3 +665,5 @@ B
 * It is comforting to think that…
 * It is amusing to think that …
 * It is **irritating** to think that …
+
+[^1]: 
