@@ -304,8 +304,16 @@ v. 打扰，令人不安
 * Pumas are large, cat-like animals (which are) found in America.
 * Many plant and animal species **are found** only in the rainforests.
 * Vitamin C **is found** in citrus fruit.
-* 造句: 大熊猫 (giant panda) 是一种大型的，类似于熊的动物，产于中国四川省。
-  * Giant pandas is a large, bear-like animals which are found in Sichuan province, China.
+
+> 造句:&#x20;
+>
+>
+>
+> 大熊猫 (giant panda) 是一种大型的，类似于熊的动物，产于中国四川省。
+>
+> Giant pandas is a large, bear-like animals which are found in Sichuan province, China.
+
+
 
 ### come into
 
