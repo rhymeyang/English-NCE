@@ -24,7 +24,7 @@ Listen to the tape then answer the question below.
 
 Our vicar is always raising money for one cause or another, but he has never managed to get enough money to have the church clock repaired. The big clock which used to strike the hours day and night was damaged many years ago and has been silent ever since.
 
-One night, however, our vicar work up with a start: the clock was striking the hours! Looking at his watch, he saw that it was one o'clock, but the bell struck thirteen times before it stopped.
+One night, however, our vicar woke up with a start: the clock was striking the hours! Looking at his watch, he saw that it was one o'clock, but the bell struck thirteen times before it stopped.
 
 Armed with a torch, the vicar went up into the clock tower to see what was going on. In the torchlight, he caught sight of a figure whom he immediately recognized as Bill Wilkins, our local grocer.
 
@@ -80,9 +80,9 @@ Listen to the tape then answer the question below.
 
 **What was the consequence of the editor's insistence on facts and statistics?**
 
-Editors of newspapers and magazines often go to extremes to provide their reader with unimportant facts and statistics. Last year a journalist had been instructed by a well-known magazine to write an article on the president's palace in a new African republic. When the article arrived, the editor read the first sentence and then refuse to publish it. The article began: 'Hundreds of steps lead to the high wall which surrounds the president's palace'. The editor at once sent the journalist a fax instructing him to find out the exact number of steps and the height of the wall.
+Editors of newspapers and magazines often go to extremes to provide their readers with unimportant facts and statistics. Last year a journalist had been instructed by a well-known magazine to write an article on the president's palace in a new African republic. When the article arrived, the editor read the first sentence and then refuse to publish it. The article began: 'Hundreds of steps lead to the high wall which surrounds the president's palace'. The editor at once sent the journalist a fax instructing him to find out the exact number of steps and the height of the wall.
 
-The journalist immediately set out to obtain these important facts, but the took a long time to send them Meanwhile, the editor was getting impatient, for the magazine would soon go to press. He sent the journalist two more faxes, but received no reply. He sent yet another fax informing the journalist that if he did not reply soon he would be fired. When the journalist again failed to reply, the editor reluctantly published the article as it had originally been written. A week later, the editor at last received a fax from the journalist. Not only had the poor man been arrested, but he had been sent to prison as well. However, he had at last been allowed to send a fax in which he informed the editor that he had been arrested while counting the 1,084 steps leading to the fifteen-foot wall which surrounded the president's palace.
+The journalist immediately set out to obtain these important facts, but he took a long time to send them. Meanwhile, the editor was getting impatient, for the magazine would soon go to press. He sent the journalist two more faxes, but received no reply. He sent yet another fax informing the journalist that if he did not reply soon he would be fired. When the journalist again failed to reply, the editor reluctantly published the article as it had originally been written. A week later, the editor at last received a fax from the journalist. Not only had the poor man been arrested, but he had been sent to prison as well. However, he had at last been allowed to send a fax in which he informed the editor that he had been arrested while counting the 1,084 steps leading to the fifteen-foot wall which surrounded the president's palace.
 
 ### 参考译文
 
@@ -160,9 +160,9 @@ Listen to the tape then answer the question below.
 
 **What would have happened if only two of the sixteen water-tight compartments had been flooded?**
 
-The great ship, Titanic, sailed for New York from Southampton on April 10th, 1912. She was carrying 1,316 passengers and crew of 891. Even by modern standards, the 46,000 ton Titanic was a colossal ship. At the time, however, she was not only the largest ship that had ever been built, but was regarded as unsinkable, for she had sixteen watertight compartments. Even if two of these were flooded, she would still be able to float. The tragic sinking of this great liner will always be remembered, for she went down on her first voyage with heavy loss of life.
+The great ship, Titanic, sailed for New York from Southampton on April 10th, 1912. She was carrying 1,316 passengers and crew of 891. Even by modern standards, the 46,000 ton Titanic was a colossal ship. At that time, however, she was not only the largest ship that had ever been built, but was regarded as unsinkable, for she had sixteen watertight compartments. Even if two of these were flooded, she would still be able to float. The tragic sinking of this great liner will always be remembered, for she went down on her first voyage with heavy loss of life.
 
-Four days after setting out, while the Titanic was sailing across the icy water of the North Atlantic, a huge iceberg was suddenly spotted by a lookout. After the alarm had been given, the great ship turned sharply to avoid a direct collision. The _Titanic_ turned just in time, narrowly missing the immense wall of ice which rose over 100 feet out of the water beside her. Suddenly, there was a slight trembling sound from below, and the captain went down to see what had happened. The noise had been so faint that no one though that the ship had been damaged. Below, the captain realized to his horror that the Titanic was sinking rapidly, for five of her sixteen watertight compartments had already been flooded! The order to abandon ship was given and hundreds of people plunged into the icy water. As there were not enough lifeboats for everybody, 1,500 lives were lost.
+Four days after setting out, while the Titanic was sailing across the icy waters of the North Atlantic, a huge iceberg was suddenly spotted by a lookout. After the alarm had been given, the great ship turned sharply to avoid a direct collision. The _Titanic_ turned just in time, narrowly missing the immense wall of ice which rose over 100 feet out of the water beside her. Suddenly, there was a slight trembling sound from below, and the captain went down to see what had happened. The noise had been so faint that no one thought that the ship had been damaged. Below, the captain realized to his horror that the Titanic was sinking rapidly, for five of her sixteen watertight compartments had already been flooded! The order to abandon ship was given and hundreds of people plunged into the icy water. As there were not enough lifeboats for everybody, 1,500 lives were lost.
 
 ### 参考译文
 
@@ -176,7 +176,7 @@ Listen to the tape then answer the question below.
 
 **What was the Customs Officer looking for?**
 
-Customs Officers are quite tolerant these days, but they can still stop you when you are going through the Green Channel and have nothing to declare. Even really honest people are often made to feel guilty. The hardened professional smuggler, on the other hand, is never troubled by such feelings, even if he has five hundred gold watches hidden in his suitcase. When I returned form abroad recently, a particularly officious young Customs Officer clearly regarded me as a smuggler.
+Customs Officers are quite tolerant these days, but they can still stop you when you are going through the Green Channel and have nothing to declare. Even really honest people are often made to feel guilty. The hardened professional smuggler, on the other hand, is never troubled by such feelings, even if he has five hundred gold watches hidden in his suitcase. When I returned from abroad recently, a particularly officious young Customs Officer clearly regarded me as a smuggler.
 
 'Have you anything to declare?' he asked, looking me in the eye.
 
@@ -186,7 +186,7 @@ Customs Officers are quite tolerant these days, but they can still stop you when
 
 'Not at all,' I answered.
 
-The Officer went through the case with great care. All the thing I had packed so carefully were soon in a dreadful mess. I felt sure I would never be able to close the case again. Suddenly, I saw the Officer's face light up. He had spotted a tiny bottle at the bottom of my case and he pounced on it with delight.
+The Officer went through the case with great care. All the things I had packed so carefully were soon in a dreadful mess. I felt sure I would never be able to close the case again. Suddenly, I saw the Officer's face light up. He had spotted a tiny bottle at the bottom of my case and he pounced on it with delight.
 
 'Perfume, eh?' he asked sarcastically. 'You should have declared that. Perfume is not exempt from import duty.'
 
@@ -244,7 +244,7 @@ Listen to the tape then answer the question below.
 
 After her husband had gone to work. Mrs. Richards sent her children to school and went upstairs to her bedroom. She was too excited to do any housework that morning, for in the evening she would be going to a fancy-dress party with her husband. She intended to dress up as a ghost and as she had made her costume the night before, she was impatient to try it on. Though the costume consisted only of a sheet, it was very effective. After putting it on, Mrs. Richards went downstairs. She wanted to find out whether it would be comfortable to wear.
 
-Just as Mrs. Richards was entering the dinning room, there was a knock on the front door. She knew that it must be the baker. She had told him to come straight in if ever she failed to open the door and to leave the bread on the kitchen table. Not wanting to frighten the poor man, Mrs. Richards quickly hid in the small storeroom under the stairs. She heard the front door open and heavy footsteps in the hall. Suddenly the door of the storeroom was opened and a man entered. Mrs. Richards realized that it must be the man from the Electricity Board who had come to read the metre. She tried to explain the situation, saying 'It's only me', but it was too late. The man let out cry and jumped back several paces. When Mrs. Richards walked towards him, he fled, slamming the door behind him.
+Just as Mrs. Richards was entering the dinning room, there was a knock on the front door. She knew that it must be the baker. She had told him to come straight in if ever she failed to open the door and to leave the bread on the kitchen table. Not wanting to frighten the poor man, Mrs. Richards quickly hid in the small storeroom under the stairs. She heard the front door open and heavy footsteps in the hall. Suddenly the door of the storeroom was opened and a man entered. Mrs. Richards realized that it must be the man from the Electricity Board who had come to read the metre. She tried to explain the situation, saying 'It's only me', but it was too late. The man let out a cry and jumped back several paces. When Mrs. Richards walked towards him, he fled, slamming the door behind him.
 
 ### 参考译文
 
