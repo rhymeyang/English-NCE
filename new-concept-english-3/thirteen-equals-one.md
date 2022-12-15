@@ -64,9 +64,13 @@ Nobody **matches** him in strength.
 
 In English she has no **equal** in her class.
 
+****
+
 **be / stand head and shoulders above sb.**
 
-* **be much better than others** 明显超过他人，鹤立鸡群
+**be much better than others** 明显超过他人，鹤立鸡群
+
+
 
 Women demand **equal** pay for **equal** work.
 
@@ -114,7 +118,7 @@ He has a big family to **raise**.
 
 We’re **raising** a fund for orphans.
 
-####
+
 
 #### rise vi
 
@@ -131,6 +135,8 @@ Problems **arose**.  vi
 **arouse** one's pity/anger.
 
 > 场景
+>
+>
 >
 > A: You look happy today.
 >
@@ -214,15 +220,11 @@ wait for me 等等我
 
 > Sam, mess up the kitchen (always)
 >
->
->
 > **Sam is always messing up the kitchen.**
 
 
 
 > Bruce, leave his dirty dishes on the table (forever)
->
-> ****
 >
 > **Bruce is forever leaving his dirty dishes on the table.**
 
@@ -230,15 +232,11 @@ wait for me 等等我
 
 > Peter, try to show me he's smarter than me (constantly)
 >
->
->
 > **Peter is constantly trying to show me he is smarter than me.**
 
 
 
 > Mary, borrow my clothes without asking me (continually)
->
->
 >
 > **Mary is continually borrowing my clothes without asking me.**
 
@@ -246,15 +244,11 @@ wait for me 等等我
 
 > Why, you, make the same mistakes (keep on doing)
 >
->
->
 > **Why do you keep on making the same mistakes?**
 
 
 
 > Jane, forget to give me my phone messages (do sth. all the time)
->
->
 >
 > **Jane forgets to give me my phone messages all the time.**
 
@@ -264,19 +258,25 @@ wait for me 等等我
 
 One would expect them to know their parts by heart and never have **cause** to falter.
 
-* **one … or another**
+****
+
+**one … or another**
 
 one cause or another
 
 He **is always asking** me for money for **one** cause **or another**.
 
+
+
 Beginners will err at **one** time **or another**.
 
-* err, v
+err, v
 
 Everyone can contribute to society in **one** way **or another**.
 
-* **one … after another**
+****
+
+**one … after another**
 
 **one** day **after another**
 
@@ -286,15 +286,21 @@ achieve **one** success **after another**
 
 ### manage to do
 
-* **manage to do**  设法完成了某事
+****
+
+**manage to do**  设法完成了某事
 
 As no pumas had been reported missing from any zoo in the country, this one must have been in the possession of a private collector and somehow managed to escape.
 
-* **fail to do**: 没能完成某事
+****
+
+**fail to do**: 没能完成某事
 
 When the journalist again failed to reply, the editor reluctantly published the article as it had originally been written.
 
-* **have sth. done** 请某人做 某事
+****
+
+**have sth. done** 请某人做 某事
 
 I'm going to **have my hair cut** this weekend.
 
@@ -308,9 +314,7 @@ The house **had its window broken** in the explosion.
 
 无灵主语 / 物称主语 (inaminate subject)
 
-*   inaminate subject
-
-
+**inaminate subject**
 
 When reports came into London Zoo that a wild puma had been spotted forty five miles south of London, they were not taken seriously.
 
@@ -318,21 +322,29 @@ The sea bed was scoured with powerful nets and **there was tremendous excitement
 
 He lost his confidence.
 
-* **Confidence deserted him.**
+****
+
+**Confidence deserted him.**
 
 I couldn't sleep that night.
 
-* That night sleep **eluded** me.
+That night sleep **eluded** me.
 
 We only travelled half the distance at sunset.
 
-* **Sunset met us halfway.**
+****
+
+**Sunset met us halfway.**
 
 **The past few years witnessed the great influx of foreigners to China, for travelling, studies or business.**
+
+****
 
 **elude** 英音：/iˈluːd/ 美音：/iˈluːd/
 
 vt. 逃避，躲避 时态: eluded, eluding, eludes
+
+****
 
 **influx**  英音：/ˈɪnflʌks/ 美音：/ˈɪnflʌks/
 
@@ -344,13 +356,13 @@ water influx 水倾，水侵量
 
 **例句**
 
-There was a sudden influx of goods onto the market. 大批商品一下子市场。
+There was a sudden **influx** of goods onto the market. 大批商品一下子市场。
 
-The country simply cannot absorb this influx of refugees. 这个国家实在不能接纳这的难民。
+The country simply cannot absorb this **influx** of refugees. 这个国家实在不能接纳这的难民。
 
-The country sealed its borders to prevent the influx of illegal immigrants. 为了防止非法移民大湧，该国封闭了边境。
+The country sealed its borders to prevent the **influx** of illegal immigrants. 为了防止非法移民大湧，该国封闭了边境。
 
-There was a sudden influx of household electric products onto the market. 大批家用电气产品突然进市场。
+There was a sudden **influx** of household electric products onto the market. 大批家用电气产品突然进市场。
 
 
 
@@ -358,9 +370,9 @@ There was a sudden influx of household electric products onto the market. 大批
 >
 > 我的小女儿总是抱怨(complain of) 各种各样的病，但她从未成功地得到允许 (get permission) 呆在家里。
 >
+>
+>
 > **X.** My little daughter is always complaining of various diseases, but she had never managed to get permission to stay at home.
->
->
 >
 > My little daughter is always complaining of **one illness or another**, but she **has** never managed to get permission to **be** at home.
 
@@ -368,11 +380,13 @@ There was a sudden influx of household electric products onto the market. 大批
 
 ### used to do
 
-* **used to do**
+**used to do**
 
 I used to get up early. 过去常常
 
-* **be / become / get used to n./doing**
+****
+
+**be / become / get used to n./doing**
 
 I'**m used to** getting up early. 习惯于
 
@@ -380,15 +394,21 @@ I'**m used to** getting up early. 习惯于
 
 Life is not fair, **get used to it**. Bill Gates
 
-* **be accustomed to (doing) sth.** 习惯于
+****
+
+**be accustomed to (doing) sth.** 习惯于
 
 For men **accustomed to eating** seven course dinners and sleeping between fine linen sheets at home, the change to the Alps must have been very hard indeed.
 
-* strike the hours 钟打点报时
+
+
+**strike the hours** 钟打点报时
 
 It would strike twelve **in** twenty minutes.
 
-* ever since: adv. / prep. / conj. 从那以后，一直... (用完成时)
+****
+
+**ever since**: adv. / prep. / conj. 从那以后，一直... (用完成时)
 
 The big clock which used to strike the hours day and night was damaged many years ago and has been silent **ever since**. adv
 
@@ -420,24 +440,39 @@ The doorbell rang loud enough to **wake** the dead. vt
 
 go / get to sleep fall asleep
 
-* **toss and turn**
+****
 
-I was tossing and turning all night.
+**toss and turn**
 
-* **insomnia**
+I was **tossing and turning** all night.
 
-He suffered from insomnia.
+****
 
-* sit up
-  * stay up
-  * He sat up all night, preparing for the exam.
-* **night owl**
+**insomnia**
+
+He suffered from **insomnia**.
+
+
+
+**sit up**
+
+stay up
+
+He sat up all night, preparing for the exam.
+
+****
+
+**night owl**
 
 He is a night owl.
+
+
 
 **insomnia** 英音：/ɪn'sɒmnɪə/美音：/ɪn'sɑmnɪə/
 
 n. 失眠症，失眠
+
+
 
 **owl** 英音：/aʊl/ 美音：/aʊl/
 
@@ -495,14 +530,19 @@ When he looked at his watch, he saw that it was one o’clock.
 
 非谓语(doing; done; to do) 作状语时，一般情况下其**隐含的主语应该与主句主语保持一致**。
 
-* X. Looking at his watch, it was one o’clock.&#x20;
+X. Looking at his watch, it was one o’clock.&#x20;
 
 ### before的译法
 
-* 强调主句的时间很长时，译为 **才**
-  * It will be a long time **before** we meet again.
-* 强调主句的时间很短时,译为 **就**
-  * I hadn't waited long **before** he came.
+强调主句的时间很长时，译为 **才**
+
+It will be a long time **before** we meet again.
+
+
+
+强调主句的时间很短时,译为 **就**
+
+I hadn't waited long **before** he came.
 
 ### arm sb. with sth.
 
@@ -522,30 +562,47 @@ sb. carry sth.
 
 What’s going on here?
 
-* happen
-* occur
-* come up
-* come about
-* take place 意料之中，规划好的
-* strike 不幸的事情发生
+
+
+happen
+
+occur
+
+come up
+
+come about
+
+take place 意料之中，规划好的
+
+strike 不幸的事情发生
+
+
 
 The funeral will **take place** on Monday.
 
 Most people were fast asleep when the earthquake **struck**.
 
-* ensue
+****
 
-I objected to his advice and a heated argument ensued.
+**ensue**
 
-* coincide (with …) 碰巧发生
+I objected to his advice and a heated argument **ensued**.
+
+****
+
+**coincide (with …)** 碰巧发生
 
 > When I came, he was just about to leave.
 >
 > My arrival **coincided with** his departure.
 
-* catch sight of …
-* catch a glimpse of …
-* glimpse …
+****
+
+**catch sight of …**
+
+**catch a glimpse of …**
+
+**glimpse …**
 
 ### figure
 
@@ -577,6 +634,8 @@ May I use your book? How's your father?
 **A. 表示 无论**
 
 Wherever it went, it left behind it a trail of dead deer and small animals like rabbits.
+
+
 
 **B. 表示 到底**
 
@@ -620,21 +679,43 @@ How the hell are we going to do that?
 
 表示持续性的动作一直到现在，而且还有可能继续下去。
 
-* night after night
-* night by night
-* every night
-* one night after another
-* day after day
-* day by day
-* every day 必须分开，状语
-  * everyday adj.
-* one day after another
-* Oceans apart, day after day, and I slowly go insane.
-* for weeks 好几周了
-* for hours 好几小时了
-* for months 好几个月了
-* for years 好几年了
-* for centuries 好几百年了
+**night after night**
+
+**night by night**
+
+**every night**
+
+**one night after another**
+
+**day after day**
+
+**day by day**
+
+****
+
+**every day** 必须分开，状语
+
+everyday adj.
+
+
+
+**one day after another**
+
+
+
+Oceans apart, **day after day**, and I slowly go insane.
+
+****
+
+**for weeks** 好几周了
+
+**for hours** 好几小时了
+
+**for months** 好几个月了
+
+**for years** 好几年了
+
+**for centuries** 好几百年了
 
 ### was / were hoping …
 
@@ -654,9 +735,11 @@ He **does** speak English well.
 
 So you **did** come after all.
 
-Come in. Do come in.
+Come in. **Do** come in.
 
-Shut up! Do shut up!
+Shut up! **Do** shut up!
+
+
 
 ### as well …
 
@@ -666,17 +749,21 @@ as well as … 除了...之外 , 也
 
 You've probably woken up everyone in the village **as well** as me.
 
+###
+
 ### still
 
 still 尽管如此，还是
 
-nevertheless
+**nevertheless**
 
-nonetheless
+**nonetheless**
 
-all the same
+**all the same**
 
-just the same
+**just the same**
+
+****
 
 句子
 
@@ -725,6 +812,6 @@ Swimming is not my cup of tea.
 
 Mountain hiking is not my cup of tea.
 
-make **tea**
+**make tea**
 
 **make water**
