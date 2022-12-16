@@ -10,7 +10,7 @@ Why did Alf want a white-collar job?
 
 These days, people who do manual work often receive far more money than people who work in offices. People who work in offices are frequently referred to as 'white-collar workers' for the simple reason that they usually wear a collar and tie to go to work. Such is human nature, that a great many people are often willing to sacrifice higher pay for the privilege of becoming white-collar workers. This can give rise to curious situations, as it did in the case of Alfred Bloggs who worked as a dustman for the Ellesmere Corporation.
 
-When he got married, Alf was too embarrassed to say anything to his wife about his job. He simply told her that he worked for the Corporation. Every morning, he left home dressed in a smart black suit. He then changed into overalls and spent the next eight hours as a dustman. Before returning home at night. He took a shower and changed back into his suit. Alf did this for over two years and his fellow dustmen kept his secret Alf's wife has never discovered that she married a dustman and she never will, for Alf has just found another job. He will soon be working in an office. He will be earning only half as much as he used to, but he feels that his rise in status is well worth the loss of money. From now on, he will wear a suit all day and others will call him 'Mr. Bloggs', not 'Alf'.
+When he got married, Alf was too embarrassed to say anything to his wife about his job. He simply told her that he worked for the Corporation. Every morning, he left home dressed in a smart black suit. He then changed into overalls and spent the next eight hours as a dustman. Before returning home at night. He took a shower and changed back into his suit. Alf did this for over two years and his fellow dustmen kept his secret. Alf's wife has never discovered that she married a dustman and she never will, for Alf has just found another job. He will soon be working in an office. He will be earning only half as much as he used to, but he feels that his rise in status is well worth the loss of money. From now on, he will wear a suit all day and others will call him 'Mr. Bloggs', not 'Alf'.
 
 ### New words and expressions
 
@@ -64,25 +64,33 @@ manual work / labor
 
 **spiritual** - **material**
 
-构词
+**构词**
 
 'man(u)' = hand
 
-manufacture
+**manufacture**
 
-* **biscuit manufacturers**
-* **soap manufacturers**
-* manacle manuscript
+biscuit **manufacturers**
 
-emancipate
+soap **manufacturers**
 
-* emancipate slaves
-* the emancipation of women
-* the Emancipation Proclamation 废奴宣言
 
-**manacle**
 
-英音：/ˈmænəkl/美音：/ˈmænəkl/&#x20;
+**manacle**&#x20;
+
+**manuscript**
+
+**emancipate**
+
+**emancipate** slaves
+
+the **emancipation** of women
+
+the **Emancipation** Proclamation 废奴宣言
+
+****
+
+**manacle**  英音：/ˈmænəkl/美音：/ˈmænəkl/&#x20;
 
 n. 手铐；束缚
 
@@ -90,15 +98,15 @@ vt. 给…上手铐；束缚
 
 时 态: manacled, manacling, manacles
 
-**manuscript**
+****
 
-英音：/ˈmænjuskrɪpt/ 美音：/ˈmænjuskrɪpt/
+**manuscript**  英音：/ˈmænjuskrɪpt/ 美音：/ˈmænjuskrɪpt/
 
 n. 手稿, 原稿, 底稿 手写本
 
-**emancipate**
+****
 
-英音：/ɪˈmænsɪpeɪt/  美音：/ɪˈmænsɪpeɪt/
+**emancipate**  英音：/ɪˈmænsɪpeɪt/  美音：/ɪˈmænsɪpeɪt/
 
 vt. 解放某人(尤指摆脱政治、法律或社会的束缚)
 
@@ -116,17 +124,19 @@ above
 
 Hi, buddy!
 
-&#x20;much
+much
 
 I love you, honey. color
 
 The **color** of the **collar** is white.
 
-使用
+**使用**
 
-* white-collar workers
-* blue-collar workers
-* The policeman collared the thief.
+**white-collar** workers
+
+**blue-collar** workers
+
+The policeman **collared** the thief.
 
 v, n
 
@@ -136,7 +146,7 @@ tie, **tie a tie**&#x20;
 
 **wish a wish**
 
-I wished a wish on the star.
+I **wished** a **wish** on the star.
 
 **dream a dream**
 
@@ -144,11 +154,15 @@ I wished a wish on the star.
 
 **breathe** one’s last **breath**
 
+****
+
+**breathe** 英音：/briːð/美音：/briːð/
+
+**breath** 英音：/breθ/ 美音：/breθ/
+
 ### sacrifice
 
-sacrifice \['sækrɪfaɪs]
-
-sacrifice v. 牺牲，献 出
+sacrifice \['sækrɪfaɪs]   v. 牺牲，献出
 
 **sacrifice … for …**
 
@@ -166,18 +180,27 @@ Relatively few people are prepared to **sacrifice** holiday time **for** the ple
 
 **give up**
 
+****
+
 **abandon**
 
 **abandon** ship
 
+****
+
 **renounce**
 
-* renounce smoking and drinking
-* 正式宣布放弃
+**renounce** smoking and drinking
+
+正式宣布放弃
+
+****
 
 **cede**
 
 Hong Kong was **ceded to** Britain after the Opium War.
+
+****
 
 **cede** 英音：/siːd/美音：/siːd/
 
@@ -187,7 +210,7 @@ vt. 让给，割让；放弃
 
 
 
-**opium**&#x20;
+**opium**
 
 **opium** 英音：/'əʊpɪəm/美音：/'opɪəm/
 
@@ -199,9 +222,9 @@ adj. 鸦片的
 
 privilege \['prɪvəlɪdʒ] n. 特权，特殊的好处
 
-enjoy a privilege 享用
+enjoy a **privilege** 享用
 
-abuse a privilege 滥用
+abuse a **privilege** 滥用
 
 Education is a **right**, not a **privilege**.
 
@@ -211,26 +234,41 @@ Education is a **right**, not a **privilege**.
 
 Today, I **have the privilege to** speak at this important international forum on behalf of the Chinese government.
 
+
+
 ### corporation
 
-corporation \[kɔ:pə'reɪʃn] n. 公司
+**corporation** \[kɔ:pə'reɪʃn] n. 公司
 
 **multinational corporation**
 
-公司
 
-* **company**
-* **firm**
-* **business concern**
 
-企业
+**公司**
 
-* **enterprise**
-* foreign funded **enterprise**
-* joint-venture **enterprise**
-* state-owned **enterprise** (SOE)
-* private **enterprise**
-* township **enterprise**
+**company**
+
+**firm**
+
+**business concern**
+
+
+
+**企业**
+
+**enterprise**
+
+foreign funded **enterprise**
+
+joint-venture **enterprise**
+
+state-owned **enterprise** (SOE)
+
+private **enterprise**
+
+township **enterprise**
+
+##
 
 ## 习语
 
@@ -238,10 +276,17 @@ corporation \[kɔ:pə'reɪʃn] n. 公司
 
 These days, people who **do manual work** often receive far more money than people **who work in offices**.
 
-* these days
-* today
-* nowadays
-* **in those days** 当年
+
+
+**these days**
+
+**today**
+
+**nowadays**
+
+**in those days** 当年
+
+
 
 **In those days**, boxers fought with bare fists for prize money.
 
@@ -249,11 +294,17 @@ These days, people who **do manual work** often receive far more money than peop
 
 ### receive money
 
-* receive money 比较正式
-* make money
-* earn money
-* far / much / even / still / yet ...
-* slightly / a little / a bit ...
+receive **money** 比较正式
+
+make **money**
+
+earn **money**
+
+
+
+far / much / even / still / yet ...
+
+slightly / a little / a bit ...
 
 > 造句：现如今，在娱乐界(the entertainment field) 工作的人挣的钱往往比在教育行业 (the education sector) 工作的人多得多。
 >
@@ -284,11 +335,15 @@ For glances beget **ogles**, **ogles sighs**, **sighs wishes**, **wishes words**
 
 If you dream it, you can **do it**; if you **do it**, you can **love it**; if you **love it**, you can **enjoy it**; if you **enjoy it**, you can make it.
 
+****
+
 **grief**&#x20;
 
 **grief** 英音：/ɡriːf/ 美音：/ɡriːf/
 
 n. 悲伤，悲痛，悲伤的事， 悲痛的缘由
+
+****
 
 **beget**&#x20;
 
@@ -322,7 +377,7 @@ Please don’t **refer to** this matter again.
 
 **know A as B**
 
-He so on made a name for himself and came to be **known** to the Italians **as** Giovanni Acuto.
+He soon made a name for himself and came to be **known** to the Italians **as** Giovanni Acuto.
 
 Because of this, they were **known as** 'prizefighters'.
 
@@ -552,8 +607,11 @@ He left home **wearing** a smart black suit.
 
 smart (衣服)时髦的
 
-* dress 被动
-* wear 主动
+
+
+dress 被动
+
+wear 主动
 
 ### change
 
@@ -679,8 +737,9 @@ He will be earning only half as much as he used to (**earn**), …
 英语中表达倍数的三种方式
 
 1. A is … times as … as B
-2. A is … times the amount (the number, the size, the length, the width breadth , the height, the value, the price, etc.) of B
-   * amount 不可数
+2.  A is … times the amount (the number, the size, the length, the width breadth , the height, the value, the price, etc.) of B
+
+    amount 不可数
 3. A is … times 比较级 than B
 
 他的工资是我的三倍。
