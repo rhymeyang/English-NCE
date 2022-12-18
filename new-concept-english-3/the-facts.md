@@ -1,4 +1,4 @@
-# Page 1
+# The facts
 
 ## Context
 
@@ -54,15 +54,19 @@ the **editor of** the Washington Post
 
 **chief editor** = **editor in chief**
 
-**edit**
+****
+
+**edit v.**
 
 Janet **edited** books for a variety of publishers.
 
 Her original text has been heavily **edited**.
 
-**edition**
+****
 
-a paperback / hard-cover / de luxe edition
+**edition n.**
+
+a **paperback** / hard-cover / de luxe edition
 
 paperback - 简装
 
@@ -76,11 +80,13 @@ a revised **edition** 修订版
 
 in its sixth **edition**
 
+****
+
 **editorial**
 
 n. 社论，社评
 
-adj.
+adj. 编辑的，主编的
 
 > (A) At a book store.
 >
@@ -90,9 +96,13 @@ adj.
 >
 > (D) At a gymnasium.
 >
+>
+>
 > M: Mary is in charge of the art and music section; and Charles the sports page. What are you?
 >
 > W: I’m responsible for the **editorials**.
+>
+>
 >
 > Q: Where does the woman work?
 
@@ -106,11 +116,17 @@ Answer: (C) At a newspaper office.
 >
 > (D) Exercising in the gym.
 >
+>
+>
 > M: Would you pass me the sports section, please?
 >
 > W: Sure. If you give me the classified ads and **editorial** section.
 >
+>
+>
 > Q: What are the people doing?
+>
+>
 >
 > Answer: (C) Reading the newspaper.
 
@@ -122,15 +138,21 @@ n. 极端
 
 Editors of newspapers and magazines often **go to extremes** to provide their readers with unimportant facts and statistics.
 
-This is a rare occurrence as our climate seldom **goes to extremes**.
+This is a rare **occurrence** as our climate seldom **goes to extremes**.
+
+
 
 **from one extreme to the other**
 
-In terms of healthy eating I go from one extreme to the other.
+**In terms of** healthy eating I go **from one extreme to the other.**
+
+
 
 **between two extremes**
 
-The public's views on genetic engineering seem to range **between two extremes**.
+The public's views on **genetic engineering** seem to range **between two extremes**.
+
+
 
 **extreme adj.**
 
@@ -513,3 +535,217 @@ True eccentrics never deliberately **set out to** draw attention to themselves.
 I went on an excursion recently, but my trip **took** me longer than I expected.
 
 excursion 英音：/ɪkˈskɜːʃn/美音：/ɪkˈskɜːrʒn/ n. 远足, 短途旅行
+
+
+
+Even if you travel in ideal weather, sea journeys **take** a long time.
+
+It **took** me over half an hour to get rid of him.
+
+I **took** just ten minutes to solve that problem.
+
+He always **takes** so long to eat his breakfast.
+
+**spend … on sth. / (in) doing**
+
+I argued that if I **spent less time exhausting** myself at exercises in the morning I would keep my mind fresh for reading when I got home from work.
+
+One, to my certain knowledge, **spent** nine months on a nove l about Kashmir, then reset the whole thing in the Scottish Highlands.
+
+> 造句：这位秘书立刻着手核实(verify) 这些重要的事实，但是她花了很长时间才完成。
+>
+> The secerty immediately set out to verify those important facts, but she took a long time to complete.
+>
+> The secretary immediately set out to verify these important facts, but she took a long time to finish it.
+
+### meanwhile
+
+**meanwhile** adv.
+
+**at the same time**
+
+**(in the) meantime** n, adv
+
+I continued working. **Meantime**, he went out shopping.
+
+It took the police nearly an hour to get the traffic on the move again. **In the meantime**, the lorry driver had to sweep up hundreds of broken bottles.
+
+### one more
+
+**one more** … = **another** …
+
+**two more** … = **another two** …
+
+In **another two** weeks it'll be finished. = In **two more** weeks it'll be finished.
+
+### yet another
+
+He sent yet another fax **informing the journalist that if he did not reply soon he would be fired**.
+
+**yet** one more / another / bigger
+
+**still** one more / another / bigger
+
+This led to **yet another** angry argument.
+
+**yet** one more example
+
+**still** one more example
+
+He's given us **yet** more work to do. He's given us **still** more work to do.
+
+Inflation had risen to a **yet** / **still** higher level.
+
+> (A) The train will be overheated when it arrives.
+>
+> (B) It is too hot to wait any longer.
+>
+> (C) They are going to be late again.
+>
+> (D) They will have to schedule another dinner.
+>
+> M: They said the train won't arrive until nine.
+>
+> W: Well, what that **boils down to** is **yet another** delay in our schedule.
+>
+> Q: What does the woman mean?
+>
+> Answer: (C) They are going to be late again.
+
+boils down to: 归根到底
+
+### inform sb.
+
+**inform sb. of sth.**
+
+**inform sb. that**
+
+**in that …** 不能放句首
+
+**but / except that …**
+
+> 造句：绑匪(kidnapper) 又寄了一封匿名信 (anonymous letter)，通知老太太如果她报警，她就再也看不到她儿子了。
+>
+> The kidnapper sent yet another anonymous letter, informed the old lady if she call the police, she would never see her son. The kidnapper sent yet another anonymous letter informing the old lady that if she called the police she would never see her son again.
+
+### reluctantly
+
+When the journalist again failed to reply, the editor **reluctantly** published the article as it had originally been written.
+
+**reluctantly** = **unwillingly**
+
+I did not fancy the idea and I **reluctantly** followed Robert out of the room.
+
+The country was drawn **unwillingly** into the war.
+
+> 造句：当再一次未能得到签证(visa) 时，我们不情愿地按照原计划在国内旅行 (go on a domestic journey) 。
+>
+> When the visa again failed to get, we reluctantly follow the original plan to go on a domestic journey.
+>
+> **When we again failed to get visas, we reluctantly went on a domestic journey as it had originally been planned.**
+
+### not only … but also …
+
+**Not only** had the poor man been arrested, **but** he had been sent to prison **as well**.
+
+not only … but also …
+
+not only … but …
+
+not only … but … as well
+
+but 而且
+
+This hobby educates one **not only** in the chosen subject, **but also** in general matters which have some bearing on it.
+
+At that time, however, she was **not only** the largest ship that had ever been built, **but** was regarded as unsinkable, for she had sixteen water-tight compartments.
+
+These days, advertisers **not only** offer free samples **but** free cars, free houses, and free trips round t he world **as well**.
+
+### 部分倒装
+
+只把 **助动词**, **be 动词(之前没有其他助动词)** 或 **情态动词** 置于主语之前。
+
+1、**否定词位于句首**（如： not only, not until, neither, nor, never, hardly, barely, scarcely, few, little, rarely, seldom, under no circumstances, in no way, … …）。
+
+**Not only** had the poor man been arrested, but he had been sent to prison as well.
+
+**Nor** _is_ the city without its moments of beauty.
+
+**Neither** _was_ I surprised when the train stopped at Widley, a tiny station a few miles along the line.
+
+**Never** _have_ I seen such a good movie.
+
+**Not until** yesterday _did_ little John change his mind.
+
+**Under no circumstances** _should_ you lend Paul any money.
+
+2、 **“only + 状语” 位于句首**。
+
+直到... 才...
+
+只有...才...
+
+**Only then** _did_ he realize that he was mistaken.
+
+**Only by** working hard _can_ we succeed in doing anything.
+
+**状语从句时，主句倒装**
+
+**Only after** a baby seal is pushed into the sea by its mother _will_ it learn how to swim.
+
+**Only when** he saw that the man was actually telephoning the police _did_ he realize that they had all been the victims of a hoax.
+
+3、 **such, so, well, often, many a time 等表示程度、频率的副词位于句首**。
+
+**Such** _is_ human nature, that a great many people are often willing to sacrifice higher pay for the privilege of becoming white collar workers.
+
+**So** great _is_ our passion for doing things for ourselves, that we are becoming increasingly less dependent on specialized labour.
+
+**Well** _did_ I know him and **well** _did_ he know me.
+
+我很了解他，他也很了解我。
+
+**Often** did it snow there.
+
+**Many a time** has he given me good advice.
+
+many a time: 经常
+
+> 造句：你不但吓了我一跳，而且可能把村子里所有人都吵醒了。
+>
+> Not only had you surprised me, but woke up everyone in the village as well.
+>
+> Not only did you give me a surprise, but you've probably woken up everyone in the village as well.
+
+> 造句：不但有几个人抱怨说在夜里听见了“像猫一样的噪音”，而且一位钓鱼途中的商人还看见那只美洲狮在树上。
+>
+> Not only did someone complaine 'cat-like noises' at night, but a bussinessman on a fishing trip saw a puma up a tree as well.
+>
+> Not only did several people complain of 'cat like noises' at night, but a businessman on a fishing trip saw the puma up a tree as well.
+
+### 状语从句的省略。
+
+However, he had at last been allowed to send a fax **in which he informed the editor that he had been arrested while counting the 1,084 steps \[leading to the fifteen foot wall (which surroundedthe president's palace)]**.
+
+状语从句中如果满足以下两个条件：
+
+1、状语从句的主语与主句主语一致。
+
+2、状语从句的谓语包含 be 动词。
+
+则可同时省略状语从句的主语和其后的be 动词。
+
+> Metals expand when **they are** heated and contract when **they are** cooled.
+>
+> Metals expand when heated and contract when cooled.
+
+> **Francis Preston Blair Jr.**, although **he was** born in Kentucky, lived and practiced in Missouri.
+>
+> Francis Preston Blair Jr., although born in Kentucky, lived and practiced in Missouri.
+
+However, he had at last been allowed to send a fax in which he informed the editor that **he** had been arrested while (he had been) counting the 1,084 steps leading to the fifteen foot wall which surrounded the president's palace.
+
+> 造句：来自于伦敦动物园的专家最终打了一个电话，在电话中他通知动物园说，这只美洲狮在正从 一座古庙逃跑的时候被抓住了，这座古庙位于距离伦敦几乎有一百英里远的一座 200米高的小山上。
+>
+> The expert from London Zoo had at last made a telephone call in which he informed the zoo that the puma had been caught while escaping from an ancient temple standing on a 200 meter hill which was almost 100 miles from London.
