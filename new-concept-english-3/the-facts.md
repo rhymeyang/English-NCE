@@ -4,7 +4,9 @@
 
 ### Lesson 5 The facts
 
-Listen to the tape then answer the question below. What was the consequence of the editor's insistence on facts and statistics?
+Listen to the tape then answer the question below.&#x20;
+
+**What was the consequence of the editor's insistence on facts and statistics?**
 
 Editors of newspapers and magazines often go to extremes to provide their readers with unimportant facts and statistics. Last year a journalist had been instructed by a well-known magazine to write an article on the president's palace in a new African republic. When the article arrived, the editor read the first sentence and then refuse to publish it. The article began: 'Hundreds of steps lead to the high wall which surrounds the president's palace'. The editor at once sent the journalist a fax instructing him to find out the exact number of steps and the height of the wall.
 
@@ -12,26 +14,16 @@ The journalist immediately set out to obtain these important facts, but he took 
 
 ### New words and expressions
 
-editor n. 编辑
-
-extreme n. 极端
-
-statistics n. 统计数字
-
-journalist n. 新闻记者
-
-president n. 总统
-
-palace n. 王宫；宏伟的住宅
-
-publish v. 出版
-
-fax n. 传真
-
-impatient adj. 不耐烦的
-
-fire v. 解雇
-
+editor n. 编辑\
+extreme n. 极端\
+statistics n. 统计数字\
+journalist n. 新闻记者\
+president n. 总统\
+palace n. 王宫；宏伟的住宅\
+publish v. 出版\
+fax n. 传真\
+impatient adj. 不耐烦的\
+fire v. 解雇\
 originally adv. 起初，原先，从前
 
 ### 参考译文
@@ -46,46 +38,28 @@ originally adv. 起初，原先，从前
 
 n. 编辑(人)
 
-**editor of …**
-
-the **editor of** the Washington Post
-
-**editors of** newspapers and magazines
-
+**editor of …**\
+****the **editor of** the Washington Post\
+**editors of** newspapers and magazines\
 **chief editor** = **editor in chief**
 
-****
-
-**edit v.**
-
-Janet **edited** books for a variety of publishers.
-
+**edit v.**\
+****Janet **edited** books for a variety of publishers.\
 Her original text has been heavily **edited**.
 
-****
+**edition n.**\
+****a **paperback** / hard-cover / de luxe edition
 
-**edition n.**
-
-a **paperback** / hard-cover / de luxe edition
-
-paperback - 简装
-
-hard-cover 精装
-
+paperback - 简装\
+hard-cover 精装\
 de luxe 豪版
 
-the first **edition**
-
-a revised **edition** 修订版
-
+the first **edition**\
+****a revised **edition** 修订版\
 in its sixth **edition**
 
-****
-
-**editorial**
-
-n. 社论，社评
-
+**editorial**\
+****n. 社论，社评\
 adj. 编辑的，主编的
 
 > (A) At a book store.
@@ -136,73 +110,42 @@ n. 极端
 
 **go to extremes**
 
-Editors of newspapers and magazines often **go to extremes** to provide their readers with unimportant facts and statistics.
-
+Editors of newspapers and magazines often **go to extremes** to provide their readers with unimportant facts and statistics.\
 This is a rare **occurrence** as our climate seldom **goes to extremes**.
 
-
-
-**from one extreme to the other**
-
+**from one extreme to the other**\
 **In terms of** healthy eating I go **from one extreme to the other.**
-
-
 
 **between two extremes**
 
 The public's views on **genetic engineering** seem to range **between two extremes**.
 
+**extreme adj.**\
+**Extreme poverty** still exists in many rural areas.\
+It is necessary to use **extreme** care / caution with chemicals.\
+Force is only **justified** in **extreme circumstances**.&#x20;
 
-
-**extreme adj.**
-
-**Extreme poverty** still exists in many rural areas.
-
-It is necessary to use **extreme** care / caution with chemicals.
-
-Force is only **justified** in **extreme circumstances**.
-
-&#x20;
-
-**extremely adv.**
-
-**be extremely difficult / important / useful / complicated / pleased / grateful**
-
-Though it may be possible to measure the value of material goods in terms of money, it **is extremely difficult** to estimate the true value of the services which people perform for us.
-
+**extremely adv.**\
+**be extremely difficult / important / useful / complicated / pleased / grateful**\
+****Though it may be possible to measure the value of material goods in terms of money, it **is extremely difficult** to estimate the true value of the services which people perform for us.\
 But I was **extremely pleased** with myself. I had traced the cause of the trouble.
 
 ### journalist \['dʒɜ:nəlɪst]
 
 n.记者
 
-
-
 **reporter**
-
-****
 
 **columnist** 专栏记者，专栏作家
 
-
-
-**correspondent** 驻外记者，某种话题的记者
-
-our Middle East **correspondent**
-
-Our **correspondent** in South Africa sent this report.
-
+**correspondent** 驻外记者，某种话题的记者\
+our Middle East **correspondent**\
+****Our **correspondent** in South Africa sent this report.\
 a war / sports / education / political **correspondent**
 
-****
-
-**journalism**
-
-a career in **journalism**
-
-I plan to study **journalism** at college.
-
-
+**journalism**\
+****a career in **journalism**\
+****I plan to study **journalism** at college.
 
 > A: I see under "activities" that you’ve been writing for the school paper.
 >
