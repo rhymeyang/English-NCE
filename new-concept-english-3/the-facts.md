@@ -160,7 +160,9 @@ The public's views on **genetic engineering** seem to range **between two extrem
 
 It is necessary to use **extreme** care / caution with chemicals.
 
-Force is only justified in **extreme circumstances**.
+Force is only **justified** in **extreme circumstances**.
+
+&#x20;
 
 **extremely adv.**
 
