@@ -176,9 +176,15 @@ But I was **extremely pleased** with myself. I had traced the cause of the troub
 
 n.记者
 
+
+
 **reporter**
 
+****
+
 **columnist** 专栏记者，专栏作家
+
+
 
 **correspondent** 驻外记者，某种话题的记者
 
@@ -188,11 +194,15 @@ Our **correspondent** in South Africa sent this report.
 
 a war / sports / education / political **correspondent**
 
+****
+
 **journalism**
 
 a career in **journalism**
 
 I plan to study **journalism** at college.
+
+
 
 > A: I see under "activities" that you’ve been writing for the school paper.
 >
@@ -220,11 +230,17 @@ v. 出版
 
 This book is **published** by Oxford University Press.
 
+
+
 **publisher** 出版商
+
+
 
 **publishing** 出版业
 
 She chose **publishing** as a career.
+
+
 
 **the press** 新闻业
 
@@ -234,11 +250,15 @@ In democratic countries any efforts to restrict **the freedom of the press** are
 
 **issue**
 
-A new series of stamps will be **issued** to commemorate the event.
+A new series of stamps will be **issued** to _commemorate_ the event.
+
+****
 
 **go to press** 出版
 
 Meanwhile, the editor was getting impatient, for the magazine would soon **go to press**.
+
+****
 
 **pirate** 非法出版
 
@@ -248,17 +268,19 @@ Meanwhile, the editor was getting impatient, for the magazine would soon **go to
 
 adj.不耐烦的
 
-become / get / grow impatient (with sb. / sth.)
+become / get / grow **impatient** (with sb. / sth.)
 
 Meanwhile, the editor was getting **impatient**, for the magazine would soon go to press.
 
 We are growing **impatient** with the lack of results.
 
+
+
 **be impatient to do sth.**
 
-Many graduates are impatient to become managers.
+Many graduates are **impatient** to become managers.
 
-She intended to dress up as a ghost and as she had made her costume the night before, she was impatient to try it on.
+She intended to dress up as a ghost and as she had made her costume the night before, she was **impatient** to try it on.
 
 **be eager / anxious / itching / dying / desperate to do …**
 
@@ -282,9 +304,13 @@ She claims she **was** unfairly **dismissed from** her post.
 
 The poor girl **was dismissed** instantly.
 
+
+
 **lose one’s job**
 
 Many people won't complain about pay and conditions because they're terrified of **losing their jobs**.
+
+
 
 **lay off** 短期解聘
 
@@ -292,9 +318,13 @@ Millions of people have **been laid off** in the steel industry.
 
 **laid off workers**
 
+****
+
 **suspend** 停职
 
-The two police officers have **been suspended** until an enquiry is carried out.
+The two police officers have **been suspended** until an _enquiry_ is carried out.
+
+****
 
 **depose** 罢免
 
@@ -310,7 +340,7 @@ originally adv.
 
 The building was originally used as a prison.
 
-His novels were originally published in serial form in a magazine.
+His novels were **originally** published in serial form in a magazine.
 
 > (A) It was not very good.
 >
@@ -320,11 +350,17 @@ His novels were originally published in serial form in a magazine.
 >
 > (D) There will be two seminars instead of four.
 >
+>
+>
 > W: The seminar originally scheduled for today has been cancelled.
 >
 > M: Too bad, but it'll still be on for next week, isn't it?
 >
+>
+>
 > Q: What does the man assume about the seminar?
+>
+>
 >
 > Answer: (B) It will continue the following week.
 
@@ -334,71 +370,77 @@ She was nervous **at the beginning** but she settled down as she got further int
 
 **at first / initially**
 
-They offered her the job, initially on a temporary basis but later as a full member of the staff.
+They offered her the job, **initially** on a temporary basis but later as a full member of the staff.
 
 **to start with / to begin with**
 
-Even children who are healthy to begin with wouldn't survive long in these terrible conditions.
+Even children who are healthy **to begin with** wouldn't survive long in these terrible conditions.
 
 **origin**
 
-All this seems to me to link them with life, and the origins of things.
+All this seems to me to link them with life, and the **origins** of things.
 
-We must conclude from the work of those who have studied the origin of life, that given a planet only approximately like our own, life is almost certain to start.
+We must conclude from the work of those who have studied the **origin** of life, that given a planet only approximately like our own, life is almost certain to start.
 
 **original**
 
-the original meaning of the word
+the **original** meaning of the word
 
 At the Stewart family home on Linden Street yesterday, a group of caring Riverdale citizens gathered to plan the refurbishing of the old library, to transform it into a new community center.
 
-The original plan by the council was tabled because of lack of funds. The new plan needs you.
+The **original** plan by the council was **tabled** because of lack of funds. The new plan needs you.
 
 **original**
 
-the original meaning of the word
+the **original** meaning of the word
 
-a highly original design
+a highly **original** design
 
 **originality**
 
-A lot of his designs lack originality.
+A lot of his designs lack **originality**.
 
-a young writer of great originality
+a young writer of great **originality**
 
-go to extremes to do sth.
+
+
+### go to extremes to do sth.
 
 过分地 …………，在某方面走极端
 
 > 造句：女孩子常常在减肥方面走极端。
 >
-> Girls often go to extremes to lose weight.
+> Girls often **go to extremes to** lose weight.
 
 > 造句：有些父母常常过分地满足孩子的需要。
 >
-> Some parents often go to extremes to satisfy the needs of their children.
+> Some parents often **go to extremes to** satisfy the needs of their children.
 
 > 造句：阿尔弗雷德· 布洛格斯过分地追求 (seek) 成为白领工人的特权。
 >
-> Alfred Bloggs went to extremes to seek the privilege of becoming a white-collar worker.
+> Alfred Bloggs **went to extremes to** seek the privilege of becoming a white-collar worker.
 
-provide sb. with sth.
+### provide sb. with sth.
 
-provide sth. for sb.
+**provide sth. for sb.**
 
-If you can do without the few pastoral pleasures of the country, you will find the city can provide you with the best that life can offer.
+If you can do without the few **pastoral** pleasures of the country, you will find the city can **provide you with** the best that life can offer.
 
-Colleges provide accommodation for all first year undergraduate students.
+Colleges **provide accommodation for** all first year undergraduate students.
 
-offer sb. sth.
+**offer sb. sth.**
 
-offer sth. to sb.
+**offer sth. to sb.**
 
-They offered him a very good job , but he turned it.
+They **offered** him a very good job , but he turned it.
 
-The drama school offers places to students who can show talent unimportant: trivial; trifling;
+The drama school **offers** places to students who can show talent&#x20;
 
-insignificant
+**unimportant**: trivial; trifling;
+
+**insignificant**
+
+### 多小词并列
 
 重要性一样时，小词放前面
 
@@ -418,7 +460,7 @@ insignificant
 >
 > Some websites often go to extremes to privde their visiters with bewildering amount of information.
 >
-> **Some websites often go to extremes to provide their visitors with a be wildering amount of information.**
+> **Some websites often go to extremes to provide their visitors with **<mark style="color:red;">**a**</mark>** bewildering amount of information.**
 
 ### instruct sb. in sth.
 
@@ -428,15 +470,15 @@ I **instruct** a class **in** history. **instructor**
 
 I have **been instructed** by the company **to** offer you a refund. 退款
 
-The judge **directed** the defendant to remain silent. 命令被告保持沉默
+The judge **directed** the **defendant** to remain silent. 命令被告保持沉默
 
 ### order sb. to do
 
-The policeman ordered the motorist to stop.
+The policeman **ordered** the motorist to stop.
 
 **command sb. to do**
 
-The officer commanded his men to open fire.
+The officer **commanded** his men to open fire.
 
 ### be instructed
 
@@ -470,19 +512,27 @@ The article began: **'Hundreds of steps lead to the high wall which surrounds th
 
 **dozens of / scores of / hundreds of / thousands of / millions of + 复数名词**
 
-**tens of thousands of / hundreds of thousands of + 复数名词**
+<mark style="color:red;">**tens of thousands of**</mark>** / **<mark style="color:red;">**hundreds of thousands of**</mark>** + 复数名词**
 
-**thousands upon thousands of + 复数名词**
+<mark style="color:red;">**thousands upon thousands of**</mark>** + 复数名词**
 
 ### lead to …
 
 All roads **lead to** Rome.
 
-The path **led to** a tiny village perched on the steep sides of a mountain.
+The path **led to** a tiny village **perched** on the steep sides of a mountain.
 
 This **led to** yet another angry argument.
 
-### surround
+
+
+**perch** 英音：/pɜːtʃ/美音：/pɜːrtʃ/\
+n. 栖息处，栖枝，栖木，高处，较高的位置，鲈鱼 \
+vi. (鸟)飞落，暂栖，停留 \
+vt. & vi. (在较处或物体边缘)坐着；把…置于较或危险处 \
+时 态: perched，perching，perches
+
+### surround v.
 
 Needless to say our house **is** now **surrounded by** a jungle.
 
@@ -490,7 +540,7 @@ Looking up I saw that we **were surrounded by** children in rags who were lookin
 
 **surrounding** adj.
 
-Winter was coming on and the hills threatened the **surrounding** villages with destruction, for heavy rain would not only wash away the soil but would cause serious floods a s well.
+Winter was coming on and the hills threatened the **surrounding** villages with destruction, for heavy rain would not only wash away the soil but would cause serious floods as well.
 
 The editor at once sent the journalist a fax **instructing him to find out the exact number of steps and the height of the wall**.
 
@@ -506,15 +556,16 @@ She wanted to **find out** whether it would be comfortable to wear.
 
 One night, the gaoler decided to play a joke on his colleague to **find out** if, after so many performances, he had managed to learn the contents of the letter by heart.
 
-find: 找到具体东西
+**find**: 找到具体东西
 
 He could not **find** his fifty pence piece anywhere, and what is more, he could no get his arm out.
 
-> 造句：这位经理立刻给他的秘书发了一封email ，要求她了解一下即将出席会议的确切人数。
+> 造句：\
+> 这位经理立刻给他的秘书发了一封email ，要求她了解一下即将出席会议的确切人数。
 >
-> The manager at once send his sectory a email, asking her to find out the exact number of people who will attend the meeting.
+> The manager at once send his ~~sectory~~ a email~~,~~ asking her to find out the exact number of people who will attend the meeting.
 >
-> The manager at once sent his secretary an email instructing her to find out the exact number of the people who will attend the meeting.
+> The manager at once sent his **secretary** an email instructing her to find out the exact number of **the** people who will attend the meeting.
 
 ### set out
 
@@ -534,6 +585,8 @@ True eccentrics never deliberately **set out to** draw attention to themselves.
 
 ### take
 
+主语 可以是 sb. 或者 sth.
+
 I went on an excursion recently, but my trip **took** me longer than I expected.
 
 excursion 英音：/ɪkˈskɜːʃn/美音：/ɪkˈskɜːrʒn/ n. 远足, 短途旅行
@@ -550,15 +603,19 @@ He always **takes** so long to eat his breakfast.
 
 **spend … on sth. / (in) doing**
 
+spend 主语只能是 sb.
+
 I argued that if I **spent less time exhausting** myself at exercises in the morning I would keep my mind fresh for reading when I got home from work.
 
 One, to my certain knowledge, **spent** nine months on a nove l about Kashmir, then reset the whole thing in the Scottish Highlands.
 
-> 造句：这位秘书立刻着手核实(verify) 这些重要的事实，但是她花了很长时间才完成。
+> 造句：
 >
-> The secerty immediately set out to verify those important facts, but she took a long time to complete.
+> 这位秘书立刻着手核实(verify) 这些重要的事实，但是她花了很长时间才完成。
 >
-> The secretary immediately set out to verify these important facts, but she took a long time to finish it.
+> The ~~secerty~~ immediately set out to verify those important facts, but she took a long time to complete.
+>
+> The **secretary** immediately set out to verify **these** important facts, but she took a long time to **finish it**.
 
 ### meanwhile
 
@@ -594,7 +651,9 @@ This led to **yet another** angry argument.
 
 **still** one more example
 
-He's given us **yet** more work to do. He's given us **still** more work to do.
+He's given us **yet** more work to do.&#x20;
+
+He's given us **still** more work to do.
 
 Inflation had risen to a **yet** / **still** higher level.
 
@@ -606,9 +665,13 @@ Inflation had risen to a **yet** / **still** higher level.
 >
 > (D) They will have to schedule another dinner.
 >
+>
+>
 > M: They said the train won't arrive until nine.
 >
 > W: Well, what that **boils down to** is **yet another** delay in our schedule.
+>
+>
 >
 > Q: What does the woman mean?
 >
@@ -628,7 +691,9 @@ boils down to: 归根到底
 
 > 造句：绑匪(kidnapper) 又寄了一封匿名信 (anonymous letter)，通知老太太如果她报警，她就再也看不到她儿子了。
 >
-> The kidnapper sent yet another anonymous letter, informed the old lady if she call the police, she would never see her son. The kidnapper sent yet another anonymous letter informing the old lady that if she called the police she would never see her son again.
+> The kidnapper sent yet another anonymous letter~~, informed~~ **** the old lady if she ~~call~~ the police, she would never see her son.&#x20;
+>
+> The kidnapper sent **yet another** anonymous letter **informing** the old lady **that** if she **called** the police she would never see her son **again**.
 
 ### reluctantly
 
@@ -650,11 +715,11 @@ The country was drawn **unwillingly** into the war.
 
 **Not only** had the poor man been arrested, **but** he had been sent to prison **as well**.
 
-not only … but also …
+**not only … but also …**
 
-not only … but …
+**not only … but …**
 
-not only … but … as well
+**not only … but … as well**
 
 but 而且
 
@@ -662,7 +727,7 @@ This hobby educates one **not only** in the chosen subject, **but also** in gene
 
 At that time, however, she was **not only** the largest ship that had ever been built, **but** was regarded as unsinkable, for she had sixteen water-tight compartments.
 
-These days, advertisers **not only** offer free samples **but** free cars, free houses, and free trips round t he world **as well**.
+These days, advertisers **not only** offer free samples **but** free cars, free houses, and free trips round the world **as well**.
 
 ### 部分倒装
 
@@ -700,7 +765,7 @@ These days, advertisers **not only** offer free samples **but** free cars, free 
 
 3、 **such, so, well, often, many a time 等表示程度、频率的副词位于句首**。
 
-**Such** _is_ human nature, that a great many people are often willing to sacrifice higher pay for the privilege of becoming white collar workers.
+**Such** _is_ human nature, that a great many people are often willing to sacrifice higher pay for the privilege of becoming white-collar workers.
 
 **So** great _is_ our passion for doing things for ourselves, that we are becoming increasingly less dependent on specialized labour.
 
@@ -710,21 +775,20 @@ These days, advertisers **not only** offer free samples **but** free cars, free 
 
 **Often** did it snow there.
 
-**Many a time** has he given me good advice.
-
+**Many a time** has he given me good advice.\
 many a time: 经常
 
 > 造句：你不但吓了我一跳，而且可能把村子里所有人都吵醒了。
 >
 > Not only had you surprised me, but woke up everyone in the village as well.
 >
-> Not only did you give me a surprise, but you've probably woken up everyone in the village as well.
+> **Not only** **did** you give me a surprise, but you'**ve** probably **woken up** everyone in the village as well.
 
 > 造句：不但有几个人抱怨说在夜里听见了“像猫一样的噪音”，而且一位钓鱼途中的商人还看见那只美洲狮在树上。
 >
 > Not only did someone complaine 'cat-like noises' at night, but a bussinessman on a fishing trip saw a puma up a tree as well.
 >
-> Not only did several people complain of 'cat like noises' at night, but a businessman on a fishing trip saw the puma up a tree as well.
+> Not only did **several** people **complain of** 'cat like noises' at night, but a businessman on a fishing trip saw **the** puma up a tree as well.
 
 ### 状语从句的省略。
 
