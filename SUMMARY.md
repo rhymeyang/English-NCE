@@ -9,6 +9,7 @@
   * [Smash-and-grab](new-concept-english-3/smash-and-grab.md)
   * [Mutilated ladies](new-concept-english-3/mutilated-ladies.md)
   * [A famous monastery](new-concept-english-3/a-famous-monastery.md)
+  * [Flying cats](new-concept-english-3/flying-cats.md)
 * [🌸 NCE3 Error](nce3-error/README.md)
   * [📌 A puma at large](nce3-error/a-puma-at-large.md)
 * [🍀 Appendix](appendix/README.md)
