@@ -37,22 +37,27 @@ Easter n. 复活节
 
 n. 修道院
 
-monastery, temple, mosque\
-monk, nun
+**monastery**, temple, mosque\
+**monk**, **nun**
 
-mosque 英音：/mɒsk/美音：/mɑsk/ n. 清真寺, 伊斯兰寺院
+**mosque** 英音：/mɒsk/美音：/mɑsk/ \
+n. 清真寺, 伊斯兰寺院
 
-monk 英音：/mʌŋk/美音：/mʌŋk/ n. 僧侣，修道士；和尚
+**monk** 英音：/mʌŋk/美音：/mʌŋk/ \
+n. 僧侣，修道士；和尚
 
-nun 英音：/nʌn/美音：/nʌn/ n. 修女，尼姑
+**nun** 英音：/nʌn/美音：/nʌn/ \
+n. 修女，尼姑
 
-nunnery / convent\
-church\
-cathedral
+**nunnery** / convent\
+**church**\
+**cathedral**
 
-nunnery 英音：/'nʌn(ə)rɪ/美音：/'nʌnəri/ n. 女修道院；尼姑庵
+**nunnery** 英音：/'nʌn(ə)rɪ/美音：/'nʌnəri/ \
+n. 女修道院；尼姑庵
 
-convent 英音：/'kɒnv(ə)nt/美音：/'kɑnvɛnt/ n. 修女，女修道院
+**convent** 英音：/'kɒnv(ə)nt/美音：/'kɑnvɛnt/ \
+n. 修女，女修道院
 
 ### St. Bernard \[.seɪntbə:'nɑ:d]
 
@@ -74,6 +79,11 @@ Don't make **rash promises**.
 **reckless**\
 He was fined $100 for **reckless** driving.
 
+**reckless** 英音：/ˈrekləs/美音：/ˈrekləs/ \
+adj. 轻率的; 鲁莽的; 不顾危险的 \
+副 词: recklessly \
+名 词: recklessness
+
 **impulsive** adj. **impulse** n.\
 She's so **impulsive** --she saw the house for the first time and said she'd buy it straight away.
 
@@ -82,7 +92,8 @@ She's so **impulsive** --she saw the house for the first time and said she'd buy
 n. 围场，圈地
 
 **enclose**\
-**be enclosed by …** **enclosure movement**\
+**be enclosed by …** \
+**enclosure movement**\
 圈地运动 Thomas More Sheep eat men.\
 The garden **was** completely **enclosed by** a high wall.
 
@@ -92,7 +103,10 @@ She said that she wanted to die **surrounded by** the people she loves.
 **be besieged by ...** 军事相关\
 Troy **was besieged by** Greeks.
 
-besiege 英音：/bɪˈsiːdʒ/美音：/bɪˈsiːdʒ/ vt. 包围；围困；围攻 时 态: besieged，besieging，besieges 名 词: besieger
+**besiege** 英音：/bɪˈsiːdʒ/美音：/bɪˈsiːdʒ/ \
+vt. 包围；围困；围攻 \
+时 态: besieged，besieging，besieges \
+名 词: besieger
 
 ### privacy \['prɪvəsi] \['praɪvəsi]
 
@@ -105,7 +119,7 @@ a **private** conversation / collector
 
 ### connect A with / to B
 
-The Great St. Bernard Pass connects Switzerland to Italy.
+The Great St. Bernard Pass **connects** Switzerland ****                                                                                                                                                                                                                                                                                                  Italy.
 
 **connect A with / to B**\
 The Channel Tunnel has **connected** Britain **with** mainland Europe for the first time.
@@ -119,7 +133,8 @@ The Verrazano Bridge, which was designed by Othmar Ammann, **joins** Brooklyn **
 **抽象的联系**， 一般不用 join\
 **connect A with / to B**\
 **link A with / to B**\
-There is no evidence to **link** / **connect** him **with** the murder.
+There is no evidence to **connect** him **with** the murder.\
+There is no evidence to **link** him **with** the murder.
 
 **只能是抽象联系**\
 **associate A with B**\
@@ -139,15 +154,15 @@ Being **at** 2,473 meters, ...
 
 > 造句：4807 米的勃朗峰 (Mont Blanc) 是阿尔卑斯山脉 (the Alps) 的最高峰。
 >
-> At 4807 meters height, Mont Blanc is the highest Mount at the Alps.
+> At 4807 meters ~~height~~, Mont Blanc is the highest ~~Mount at~~ the Alps.
 >
-> At 4,807 meters, Mont Blanc is the highest peak of the Alps.
+> At 4,807 **meters**, Mont Blanc is the highest **peak of** the Alps.
 
 > 造句：因为只有35 岁，他是这所大学里最年轻的教授。
 >
 > At the age of 35, he is the youngest professor at the university.
 >
-> At the age of 35, he is the youngest professor at the university.
+> At the age of 35, he is the youngest professor **at** the university.
 
 the Aegean island **of** Kea\
 the promontory **of** Ayia Irini\
@@ -155,11 +170,12 @@ the tiny village **of** Perachora\
 the novel **of** Three Kingdoms X\
 the novel **entitled** Three Kingdoms\
 the movie **entitled** Da Vinci Code\
-the man **named** / **called** Vincent \\
+the man **named** / **called** Vincent&#x20;
 
 ### 时间 追溯
 
-The body of one statue was found among remains **dating from** the fifteenth century B.C. date from …
+The body of one statue was found among remains **dating from** the fifteenth century B.C. \
+
 
 **date from ...**\
 **date back to …**\
@@ -178,10 +194,12 @@ An American team explored a temple which **stands** in an ancient city on the pr
 St. Bernard Dog
 
 **cross** the pass **on foot**\
-**cross** the pass **in cars**\
-**cross + 宾语 + 方式状语** They quickly loaded a small rubber dinghy with food, matches, and tins of beer and **rowed** for a few miles **across the Caribbean** until they arrived at a tiny coral island.\
+**cross** the pass **in cars**
+
+**cross + 宾语 + 方式状语** \
+They quickly loaded a small rubber dinghy with food, matches, and tins of beer and **rowed** for a few miles **across the Caribbean** until they arrived at a tiny coral island.\
 **row across the Caribbean**\
-In 1908 Lord Northcliffe offered a prize of ￡1000 to the first man who would fly across the English Channel.\
+In 1908 Lord Northcliffe offered a prize of ￡1000 to the first man who would **fly across** the English Channel.\
 **fly across the English Channel**\
 **动词 + across + 宾语**\
 **cross** the pass **on foot** = **walk** across the pass\
@@ -198,7 +216,8 @@ ozone-friendly
 ### bring … from
 
 **bring … from …**:从 带来\
-**introduce … from …**: 从 引进 ..., which were **introduced from** Asia, …\
+**introduce … from …**: 从 引进 \
+..., which were **introduced from** Asia, …\
 The grey squirrel **was introduced** into Britain **from** North America.\
 In the early days of the settlement of Australia, enterprising settlers unwisely **introduced** the European rabbit.
 
@@ -210,8 +229,7 @@ In the early days of the settlement of Australia, enterprising settlers unwisely
 
 ### now, now that
 
-**now (that)** conj. 同时表示时间和原因 一定现在时
-
+**now (that)** conj. 同时表示时间和原因 一定现在时\
 **Now (that)** you are a big boy you must behave better.
 
 ### tunnel
@@ -225,7 +243,8 @@ the Channel **Tunnel**
 
 温 故：疑问词 + ever 的含义
 
-1、表示“到底 ……” 引导疑问句。 '**Whatever** are you doing up here Bill ?' asked the vicar in surprise.\
+1、表示“到底 ……” 引导疑问句。 \
+'**Whatever** are you doing up here Bill ?' asked the vicar in surprise.\
 2、表示“无论 引导让步状语从句。= no matter + 疑问词\
 **Wherever** it went, it left behind it a trail of dead deer and small animals like rabbits.\
 **No matter where it went**, it left behind it a trail of dead deer and small animals like rabbits.\
@@ -234,9 +253,11 @@ the Channel **Tunnel**
 **知新：疑问词 + 表示 无论 时还可以用于名词性从句，此时 ≠“no matter+ 疑问词”,因为后者只能用于让步状语从句。**
 
 **Whoever** wants to sign up for the course is welcome. √\
-**No matter who wants to sign up for the course** is welcome. X **No matter who wants to sign up for the course**, **he** is welcome. √
+**No matter who wants to sign up for the course** is welcome. X \
+**No matter who wants to sign up for the course**, **he** is welcome. √
 
-> 改错：**Whatever project he works on** is always successful.
+> 变形：\
+> **Whatever project he works on** is always successful.
 >
 > **No matter what project he works on**, **it** is always successful.
 
@@ -266,7 +287,7 @@ We crossed the river **in a boat**.
 
 ### 原因
 
-As there are so many people about, the dogs have to be …
+**As** there are so many people about, the dogs have to be …
 
 **(With) so many people (being) about**, the dogs have to be … 没有 with 更正式，独立主格
 
@@ -287,13 +308,22 @@ life **on** campus
 
 **quite** adv. completely 完全，截然
 
-(NCE3-12 P58-L4)The other side of the picture is **quite the opposite**. (NCE3-30 P142-L21)He used to sleep during the day and work at night, **quite unaware** of the fact that he had become the ghost of Endley.
-
-Long car journeys are even less pleasant, for it is **quite impossible** even to read.
-
-We live in dread not only of unpleasant insects like spiders or wasps, but of **quite harmless** ones like moths.
-
+(NCE3-12 P58-L4)The other side of the picture is **quite the opposite**. \
+(NCE3-30 P142-L21)He used to sleep during the day and work at night, **quite unaware** of the fact that he had become the ghost of Endley.\
+Long car journeys are even less pleasant, for it is **quite impossible** even to read.\
+We live in dread not only of unpleasant insects like spiders or wasps, but of **quite harmless** ones like moths.\
 No two sorts of birds practise **quite the same** sort of flight; …
+
+**insect** 英音：/ˈɪnsekt/美音：/ˈɪnsekt/ \
+n. 昆虫；卑鄙人 \
+形容词: insect \
+形容词: insectival
+
+**wasp** 英音：/wɒsp/美音：/wɑsp/ \
+n. 黄蜂;胡蜂；易动怒的人；刻毒的人
+
+**moth** 英音：/mɒθ/美音：/mɔθ/ \
+n. 蛾；蛀虫
 
 ### fall
 
@@ -319,6 +349,12 @@ minus 30 degrees **Centigrade** / **Celsius**\
 **─30°F**\
 minus 30 degrees **Fahrenheit**
 
+**centigrade** 英音：/ˈsentɪɡreɪd/美音：/ˈsentɪɡreɪd/ \
+n. 摄氏 \
+**Celsius** 英音：/ˈselsiəs/美音：/ˈselsiəs/ \
+adj. 摄氏的 n. 摄氏度\
+**Fahrenheit** 音标：/'færən'haɪt/
+
 ### prefer
 
 **prefer A to B**\
@@ -333,11 +369,13 @@ I **prefer** standing **to** sitting down.
 >
 > (C) She doesn't live near the shops.
 >
-> (D) She prefers shopping to studying.
+> (D) She prefers shopping to studying.\
+>
 >
 > W: Didn't Marian go shopping with you yesterday?
 >
-> M: Even if she hadn't had a lot of studying, she would have **preferred** staying home **to** going shopping.
+> M: Even if she hadn't had a lot of studying, she would have **preferred** staying home **to** going shopping.\
+>
 >
 > Q: What does the man imply about Marian?
 >
@@ -350,7 +388,7 @@ I **prefer** mutton **rather than** beef.
 I **prefer to** stand **rather than** sit down.
 
 **would rather do than do**\
-I'd **rather** stand **than** sit down.\
+I**'d rather** stand **than** sit down.\
 … people **would rather** pay large sums of money **than** have their life work destroyed by gangsters.
 
 > (A) She wants the man to be at the station when she arrives.
@@ -359,11 +397,12 @@ I'd **rather** stand **than** sit down.\
 >
 > (C) The train will be an hour late.
 >
-> (D) She'll leave home at 6:30.
+> (D) She'll leave home at 6:30.\
 >
-> M: It says here the next train is due in at 6:30.
 >
-> W: I know, but I don't know whether I can make that one. I **'d rather** call you from the station **than** have you waiting around for an hour.
+> M: It says here the next train is **due in** at 6:30.
+>
+> W: I know, but I don't know whether I can make that one. I**'d rather** call you from the station **than** have you waiting around for an hour.
 >
 > Q: What does the woman imply?
 >
@@ -372,11 +411,18 @@ I'd **rather** stand **than** sit down.\
 ### allow
 
 **permit sb. to do**\
-**allow sb. to do**\
+**allow sb. to do**                                                                                                                                                                                                                                                                                                                                          \
 **give sb. permission to do**
 
 **wander**: to walk aimlessly\
 \= **roam**
+
+**roam** 英音：/rəʊm/美音：/roʊm/ \
+vi. 漫游，漫步；流浪 \
+vt. 在…流浪；在…漫步，漫游 \
+n. 漫步，漫游；流浪 \
+时 态: roamed, roaming, roams \
+名 词: roamer
 
 ### regular
 
@@ -393,13 +439,17 @@ a search **party**\
 a rescue **party**\
 After being absent from The Gables for a week, my aunt unexpectedly returned one afternoon with a **party** of guests and instructed Bessie to prepare dinner.
 
-**group** / **bunch** / **crowd** / **band** Six hundred years ago, Sir John Hawkwood arrived in Italy with a **band** of soldiers and settled near Florence.
+**group** / **bunch** / **crowd** / **band** \
+Six hundred years ago, Sir John Hawkwood arrived in Italy with a **band** of soldiers and settled near Florence.
 
 **team**\
 **gang**\
 **delegation**\
 **galaxy**\
 a **galaxy** of artists / scientists
+
+**galaxy** 英音：/ˈɡæləksi/美音：/ˈɡæləksi/ \
+n. 星系；银河系，银河；一群(杰出或著名的人物)
 
 ### 假期
 
@@ -420,3 +470,8 @@ No creature has **received more praise and abuse** than the common garden snail.
 **receive** adequate treatment\
 **receive** good education\
 This exhibition **received** a great deal of **attention** in the press, …
+
+**adequate**  英音：/ˈædɪkwət/美音：/ˈædɪkwət/ \
+adj. 充分的, 足够的；适当的, 胜任的 \
+名 词: adequacy \
+副词: adequately
