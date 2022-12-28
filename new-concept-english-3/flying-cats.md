@@ -6,7 +6,7 @@
 
 Listen to the tape then answer the question below.
 
-How do cats try to protect themselves when falling from great heights?
+**How do cats try to protect themselves when falling from great heights?**
 
 Cats never fail to fascinate human beings. They can be friendly and affectionate towards humans, but they lead mysterious lives of their own as well. They never become submissive like dogs and horses. As a result, humans have learned to respect feline independence. Most cats remain suspicious of humans all their lives. One of the things that fascinates us most about cats is the popular belief that they have nine lives. Apparently, there is a good deal of truth in this idea. A cat's ability to survive falls is based on fact.
 
@@ -45,9 +45,15 @@ This city **is endlessly fascinating**.\
 I **find** the natural world **endlessly fascinating**.
 
 **fascination**\
-**have a … fascination for** The story **has a great fascination for** me.\
+**have a … fascination for** \
+The story **has a great fascination for** me.\
 Mars **has an extraordinary fascination for** would be voyagers. 未来的长途旅行者\
 (NCE-3-42 P196-L5)For him, caves **have the same peculiar fascination** which high mountains **have for** the climber.
+
+**voyager** 英音：/'vɔiidʒə/美音：/ˈv ɔɪɪd ʒɚ/ \
+n. 航海者，航行者\
+**climber** 英音：/'klaɪmə/美音：/'klaɪmɚ/ \
+n. 攀登者，攀登物
 
 **attract**\
 Beijing **attracts** many investors.
@@ -58,6 +64,16 @@ The girl **charms** all the young boys here.
 **seduce / entice**\
 The boss is trying to **seduce** his secretary.\
 I guess I set up the video camera to try and **entice** Joey. But sadly I could not be **enticed**.
+
+**seduce** 英音：/sɪˈdjuːs/美音：/sɪˈduːs/ \
+vt. 引诱；诱惑；诱奸；怂恿 \
+时 态: seduced, seducing, seduces \
+名 词: seducer
+
+**entice** 英音：/ɪnˈtaɪs/美音：/ɪnˈtaɪs/ \
+vt. 诱使；怂恿 \
+时 态: enticed, enticing, entices \
+名 词: enticement
 
 ### affectionate \[ə'fekʃənət]
 
@@ -70,17 +86,34 @@ She looked at him in an **affectionate** way.
 **maternal affection** 母爱\
 **paternal affection**
 
+**maternal** 英音：/məˈtɜːnl/美音：/məˈtɜːrnl/ \
+adj. 母亲的；母性的；母系的；母体遗传的 \
+名 词: maternalism \
+副 词: maternally
+
+**paternal** 英音：/pə'tɜːn(ə)l/美音：/pə'tɝnl/ \
+adj. 父亲的；得自父亲的；父亲般的 \
+副 词: paternally
+
 ### mysterious \[mɪ'stɪəriəs]
 
 adj. 神秘的，难以理解的
 
 the **mysterious** pyramids
 
-pyramid 英音：/ˈpɪrəmɪd/美音：/ˈpɪrəmɪd/ n. 金字塔；角锥体 vi. 渐增；上涨；成字塔状 vt. 使…渐增；使…上涨；使…成字塔状 时 态: pyramided, pyramiding, pyramids 形容词: pyramidal
+**pyramid** 英音：/ˈpɪrəmɪd/美音：/ˈpɪrəmɪd/ \
+n. 金字塔；角锥体 \
+vi. 渐增；上涨；成字塔状 \
+vt. 使…渐增；使…上涨；使…成字塔状 \
+时 态: pyramided, pyramiding, pyramids \
+形容词: pyramidal
 
 **mystery** n.\
 **be a mystery to sb.**\
 It **'s a complete mystery to** me why she married him at all!
+
+**mystery** 英音：/ˈmɪstri/美音：/ˈmɪstəri/ \
+n. 神秘(性), 秘密(性)；神秘的事, 难以理解的事物；来历不明\[难探究竟]人
 
 > (A) She's not sure how she was able to finish so early.
 >
@@ -88,11 +121,13 @@ It **'s a complete mystery to** me why she married him at all!
 >
 > (C) She's not sure how to solve the mystery.
 >
-> (D) She still hasn't heard what was shocking.
+> (D) She still hasn't heard what was shocking.\
+>
 >
 > M: I was shocked when I heard you'd finished your research project a whole month early.
 >
-> W: How I managed to do it **is still a mystery to** me.
+> W: How I managed to do it **is still a mystery to** me.\
+>
 >
 > Q: What does the woman mean?
 >
@@ -111,6 +146,10 @@ First, you must give Helen back to my brother. Second, Troy must **submit to my 
 **bow to ...**\
 **succumb to ...**\
 The government refused to **yield / bow / succumb to** the terrorists.
+
+**succumb** 英音：/səˈkʌm/美音：/səˈkʌm/ \
+vi. 不再抵抗(诱惑、疾病、攻击等)；屈从 被压垮；死 \
+时 态: succumbed，succumbing，succumbs
 
 **be subject to sth.**\
 All employees **are subject to** the regulations of the company.
@@ -141,22 +180,22 @@ mad cow disease
 
 **feminine** 女人的 **masculine** 男子气的
 
-canine 英音：/'keɪnaɪn/美音：/'kenaɪn/\
+**canine** 英音：/'keɪnaɪn/美音：/'kenaɪn/\
 adj. 犬的；狗的；似犬的，犬科的，犬齿的\
 n. 犬，犬齿，犬牙，犬科动物
 
-aquiline 英音：/ˈækwɪlaɪn/美音：/ˈækwɪlaɪn/\
+**aquiline** 英音：/ˈækwɪlaɪn/美音：/ˈækwɪlaɪn/\
 adj. 鹰的；似鹰的；像鹰的；钩状的
 
-porcine 英音：/'pɔːsaɪn/美音：/'pɔsɪn/\
+**porcine** 英音：/'pɔːsaɪn/美音：/'pɔsɪn/\
 adj. 猪的,似猪的
 
-equine 英音：/ˈekwaɪn/美音：/ˈiːkwaɪn/\
+**equine** 英音：/ˈekwaɪn/美音：/ˈiːkwaɪn/\
 adj. 马的；象马的\
 n. 马\
 名 词: equine
 
-bovine 英音：/ˈbəʊvaɪn/美音：/ˈboʊvaɪn/\
+**bovine** 英音：/ˈbəʊvaɪn/美音：/ˈboʊvaɪn/\
 adj. 牛的,关于牛的；迟钝的,笨拙的\
 n. 牛；牛科动物
 
@@ -173,17 +212,17 @@ His wages enabled him to **become economically independent of** his family.
 
 **be dependent on ...**\
 They hate **being dependent on** their parents.\
-So great is our passion for doing things for ourselves, that we are **becoming** increasingly less **dependent on** speci alized labour.
+So great is our passion for doing things for ourselves, that we are **becoming** increasingly less **dependent on** specialized labour.
 
 ### impact \[ɪmpækt]
 
 n. 冲击力，撞击；影响
 
 **on impact**\
-The glass smashed on impact.
+The glass smashed **on impact**.
 
 **impact on / upon**\
-His speech had a great impact on me.
+His speech had a great **impact on** me.
 
 **influence / effect on / upon**
 
@@ -197,7 +236,7 @@ My arrival coincided with his departure.
 
 ### 双重否定
 
-never fail to do sth.
+**never fail to do sth.**
 
 My grandson **never fails to** phone me on my birthday.
 
@@ -219,7 +258,8 @@ We **find** cats **endlessly fascinating**.
 
 **be friendly to / toward(s)**\
 **be affectionate toward(s) …**\
-Why **is** he suddenly so **friendly to** / **toward(s)** you? He **is** very **affectionate toward(s)** his children.
+Why **is** he suddenly so **friendly to** / **toward(s)** you? \
+He **is** very **affectionate toward(s)** his children.
 
 ### live / lead a … life
 
@@ -248,7 +288,8 @@ They never become submissive **in the (same) way that** dogs and horses do.
 >
 > (C) Why do you keep on making the same mistakes?
 >
-> (D) It will be a good learning experience for you.
+> (D) It will be a good learning experience for you.\
+>
 >
 > When will you ever learn?
 >
@@ -261,9 +302,11 @@ They never become submissive **in the (same) way that** dogs and horses do.
 **sovereignty** **autonomy**\
 the Inner Mongolia **Autonomous** Region
 
-sovereignty 英音：/ˈsɒvrənti/美音：/ˈsɑːvrənti/ n. 最高统治权, 君权；国家的主权
+**sovereignty** 英音：/ˈsɒvrənti/美音：/ˈsɑːvrənti/ \
+n. 最高统治权, 君权；国家的主权
 
-autonomy 英音：/ɔːˈtɒnəmi/美音：/ɔːˈtɑːnəmi/ n. 自治，自治权 名 词: autonomist
+**autonomy** 英音：/ɔːˈtɒnəmi/美音：/ɔːˈtɑːnəmi/ \
+n. 自治，自治权 名 词: autonomist
 
 ### suspicious
 
@@ -273,6 +316,9 @@ He appeared **suspicious**.
 **sceptical / skeptical**\
 **be skeptical of / about**\
 I'm highly **skeptical of / about** his motives.
+
+**sceptical** 英音：/'skeptikəl/美音：/ˈskɛptɪkəl/ \
+adj. 不肯相信的; 常怀疑的
 
 ### all one's life
 
@@ -286,15 +332,15 @@ a **lifelong** undertaking
 
 One of the things **that fascinates us most about cats** is the popular belief **that they have nine lives**.
 
-Jasper White is _one_ of those rare people **who believes in ancient myths**.
+Jasper White is _**one**_** ** of those rare people **who believes in ancient myths**.
 
-The Cutty Sark was _one_ of the fastest sailing ships **that has ever been built**.
+The Cutty Sark was _**one**_** ** of the fastest sailing ships **that has ever been built**.
 
 前面 'one of + 复数名词', 后面 单数 复数都正确； 如果前面是 'the one ...', 后面一定单数
 
 > John is the only one of the students in the class (A) that never (B) admit making a mistake even when (C) it is (D) pointed out to him.
 >
-> B admits making a mistake
+> B **admits** making a mistake
 
 修饰动词时，the 可以省略\
 Those who work **(the) most** often get paid **(the) least**.
@@ -303,9 +349,9 @@ Those who work **(the) most** often get paid **(the) least**.
 >
 > 造句：最令我们感到伤心(sadden) 的一件事是一种令人沮丧的说法 (a depressing saying):每当我们在街上有麻烦或者有 危险时没有人来帮助我们 (come to our assistance)。
 >
-> One of the things that sadden us most is a depressing saying that when we are in trouble on street no one will come to our assistance.
+> One of the things that sadden us most is a depressing saying that when we are in trouble ~~on~~ street no one will come to our assistance.
 >
-> One of the things that saddens us most is a depressing saying that whenever we are in trouble or danger in the street no one will come to our assistance.
+> One of the things that **saddens** us most is a depressing saying that **whenever** we are in trouble **or danger in** the street no one will come to our assistance.
 
 ### there is a good deal of truth in
 
@@ -323,13 +369,16 @@ In the battle, only four soldiers **survived**. vi.\
 Only four soldiers **survived** _the battle_. vt.\
 I am especially proud of it, not only because it has **survived** _several severe winters_, but because it occasionally produces luscious peaches.
 
+**luscious** 英音：/ˈlʌʃəs/美音：/ˈlʌʃəs/ \
+adj. 甘美的；满足感官的
+
 … **is based / founded on** fact.\
 … **rests on** fact.\
 … **is supported by** fact.
 
 ### made a study of
 
-Recently the New York Animal Medical Center made a study of 132 cats over a period of five months.
+Recently the New York Animal Medical Center **made a study of** 132 cats over a period of five months.
 
 **make a study of** … = **study …**\
 **make a study of** human nature\
@@ -375,11 +424,11 @@ food / staff **shortage**
 
 **be short of …**\
 We're **short of** money.\
-The refugees **are short of** food. \\
+The refugees **are short of** food.&#x20;
 
 **there is a shortage of …**\
 **There is a shortage of** food in the refugee camps.\
-**There is a shortage of** nurses and doctors in this area. \\
+**There is a shortage of** nurses and doctors in this area.&#x20;
 
 **there is no shortage of …**\
 …, because **there is no shortage of** tall buildings.\
@@ -393,7 +442,7 @@ The refugees **are short of** food. \\
 >
 > One taxi driver, Mike, is involved in a serious car accident, only suffered from two broken ribs.
 >
-> One taxi driver, Mike, was involved in a serious car accident, yet only suffered from two broken ribs.
+> One taxi driver, Mike, **was** involved in a serious car accident, **yet** only suffered from two broken ribs.
 
 ### far 比较级
 
@@ -406,30 +455,39 @@ The refugees **are short of** food. \\
 **The harder they worked** the hungrier they became. (The harder they worked 从句)\
 They became (the) hungrier **the harder they worked**.
 
-(NCE3-55 P248-L20)A telescope would have to be as far away as the planet Jupiter to look for life in outer space, because _the dust becomes thinner_ **the further we travel towards the out er edges of our own solar system**.
+(NCE3-55 P248-L20)A telescope would have to be as far away as the planet Jupiter to look for life in outer space, because _the dust becomes thinner_ **the further we travel towards the outer edges of our own solar system**.
 
-以下倒装，可用可不用。 **The younger the child is**, the more **is** the child's need of sleep.\
-**The younger the child**, the more the child's need of sleep.
+> 以下倒装，可用可不用。\
+> **The younger the child is**, the more **is** the child's need of sleep.\
+> **The younger the child**, the more the child's need of sleep.
 
 (NCE4-7 P41-L4) **The further off this solid obstruction**, the longer time will elapse for the return of the echo.\
 **The further off this solid obstruction is**, the longer time will elapse **for the return of the echo**.
+
+**obstruction** 英音：/əbˈstrʌkʃn/美音：/əbˈstrʌkʃn/\
+n. 障碍物，阻碍物；阻碍，阻挠 \
+n. 故意妨碍议案通过 \
+n. 故意妨碍议案通过者 (铁路机车的)护栏
 
 ### speed
 
 In a long drop, they reach speeds of 60 miles an hour and more.
 
-1、 speed 做不可数名词时，与 at, with 搭配均可。\
+1、speed 做不可数名词时，与 at, with 搭配均可。\
 e.g. **at / with** great speed\
 2、 speed 做可数名词时，只能与 at 搭配。\
 e.g. **at** a speed of 60 mph
 
-(NCE3-6 P34-L14)The raid was all over in three minutes, for the men scrambled back into the car and it moved off **at** a fantastic **speed**. (NCE3-25 P122-L23)Though the new rudder was fitted **at** tremendous **speed**, it was impossible for the Cutty Sark to win.
+(NCE3-6 P34-L14)The raid was all over in three minutes, for the men scrambled back into the car and it moved off **at** a fantastic **speed**. \
+(NCE3-25 P122-L23)Though the new rudder was fitted **at** tremendous **speed**, it was impossible for the Cutty Sark to win.
 
 > ―I think John will win the race.
 >
 > ―Yes, he started off \_\_\_\_\_\_ a fantastic speed.
 >
 > (A) with (B) at (C) through (D) by
+
+出题答案一定是 with
 
 ### stretch out
 
