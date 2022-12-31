@@ -10,6 +10,7 @@
   * [Mutilated ladies](new-concept-english-3/mutilated-ladies.md)
   * [A famous monastery](new-concept-english-3/a-famous-monastery.md)
   * [Flying cats](new-concept-english-3/flying-cats.md)
+  * [The loss of the Titanic](new-concept-english-3/the-loss-of-the-titanic.md)
 * [🌸 NCE3 Error](nce3-error/README.md)
   * [📌 A puma at large](nce3-error/a-puma-at-large.md)
 * [🍀 Appendix](appendix/README.md)
